@@ -12,7 +12,7 @@
             "archived": false,
             "id": 327929724,
             "language": "Python",
-            "last_commit": "2026-08-20T15:11:51Z",
+            "last_commit": "2026-08-21T19:13:12Z",
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
             "stars": 1297
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 327929724,
             "language": "Python",
-            "last_commit": "2026-08-20T15:11:51Z",
+            "last_commit": "2026-08-21T19:13:12Z",
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
             "stars": 1297
@@ -38,10 +38,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:13:14.053Z",
+    "last_updated": "2026-08-22T10:00:57.429Z",
     "original_repository": "ml-tooling/best-of-python-dev",
     "original_repository_id": 327929724,
-    "original_repository_sha": "3e5fb5ae074f7e79675d8264b0b60acddc42bde1",
+    "original_repository_sha": "c03e1f695de8145ba24e60eb2f62586d3886e2b7",
     "enhanced_repository": "enhansome/enhansome-best-of-python-dev",
     "enhanced_repository_description": null,
     "title": "Awesome best of python dev with stars"
