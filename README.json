@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PyCQA/flake8",
           "description": "(👨‍💻 180 · 🔀 350 · 📦 690K):",
           "children": [],
           "repo_info": {
@@ -26,7 +26,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "davidhalter/parso",
           "description": "(👨‍💻 54 · 🔀 120 · 📦 610K):",
           "children": [],
           "repo_info": {
@@ -47,17 +47,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wemake-services/wemake-python-styleguide",
           "description": "(👨‍💻 230 · 🔀 420 · 📦 18K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 124593057,
             "language": "Python",
-            "last_commit": "2026-08-22T08:11:57Z",
+            "last_commit": "2026-08-24T17:44:04Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2893
+            "stars": 2892
           }
         }
       ],
@@ -68,7 +68,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "beartype/beartype",
           "description": "(👨‍💻 33 · 🔀 80 · 📦 14K):",
           "children": [],
           "repo_info": {
@@ -78,7 +78,7 @@
             "last_commit": "2026-08-22T06:42:21Z",
             "owner": "beartype",
             "repo": "beartype",
-            "stars": 3486
+            "stars": 3487
           }
         }
       ],
@@ -89,7 +89,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PyCQA/pycodestyle",
           "description": "(👨‍💻 140 · 🔀 750):",
           "children": [],
           "repo_info": {
@@ -99,7 +99,7 @@
             "last_commit": "2026-08-16T19:25:35Z",
             "owner": "PyCQA",
             "repo": "pycodestyle",
-            "stars": 5163
+            "stars": 5164
           }
         }
       ],
@@ -110,7 +110,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PyCQA/flake8-bugbear",
           "description": "(👨‍💻 94 · 🔀 120 · 📦 43K):",
           "children": [],
           "repo_info": {
@@ -131,7 +131,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openstack/hacking",
           "description": "(👨‍💻 190 · 🔀 65 · 📦 8K):",
           "children": [],
           "repo_info": {
@@ -152,7 +152,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gforcada/flake8-isort",
           "description": "(👨‍💻 40 · 🔀 200 · 📦 29K):",
           "children": [],
           "repo_info": {
@@ -173,7 +173,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "adamchainz/flake8-comprehensions",
           "description": "(👨‍💻 16 · 🔀 23 · 📦 30K):",
           "children": [],
           "repo_info": {
@@ -194,7 +194,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mgedmin/check-manifest",
           "description": "(👨‍💻 23 · 🔀 37 · 📦 12K):",
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "peterjc/flake8-black",
           "description": "(👨‍💻 11 · 🔀 11 · 📦 8.8K):",
           "children": [],
           "repo_info": {
@@ -236,7 +236,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PyCQA/flake8-commas",
           "description": "(👨‍💻 15 · 🔀 30 · 📦 19K):",
           "children": [],
           "repo_info": {
@@ -257,7 +257,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gforcada/flake8-builtins",
           "description": "(👨‍💻 21 · 🔀 25 · 📦 12K):",
           "children": [],
           "repo_info": {
@@ -278,7 +278,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PyCQA/flake8-import-order",
           "description": "(👨‍💻 50 · 🔀 73):",
           "children": [],
           "repo_info": {
@@ -299,14 +299,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "andreoliwa/nitpick",
           "description": "(👨‍💻 18 · 🔀 24 · 📦 1.4K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 126496135,
             "language": "Python",
-            "last_commit": "2026-08-21T02:43:59Z",
+            "last_commit": "2026-08-24T20:09:10Z",
             "owner": "andreoliwa",
             "repo": "nitpick",
             "stars": 413
@@ -320,7 +320,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MartinThoma/flake8-simplify",
           "description": "(👨‍💻 16 · 🔀 23):",
           "children": [],
           "repo_info": {
@@ -341,14 +341,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hermes-labs-ai/lintlang",
           "description": "(👨‍💻 2 · 🔀 1):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1168980518,
             "language": "Python",
-            "last_commit": "2026-08-22T04:23:17Z",
+            "last_commit": "2026-08-24T20:57:17Z",
             "owner": "hermes-labs-ai",
             "repo": "lintlang",
             "stars": 62
@@ -372,7 +372,7 @@
             "last_commit": "2024-02-05T04:33:35Z",
             "owner": "coala",
             "repo": "coala",
-            "stars": 3591
+            "stars": 3592
           }
         },
         {
@@ -668,17 +668,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/pyright",
           "description": "(👨‍💻 160 · 🔀 1.8K · 📦 1.7K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 175129788,
             "language": "Python",
-            "last_commit": "2026-08-22T01:26:26Z",
+            "last_commit": "2026-08-24T23:11:13Z",
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15596
+            "stars": 15597
           }
         }
       ],
@@ -689,7 +689,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "facebook/pyre-check",
           "description": "(👨‍💻 310 · 🔀 450 · 📦 24):",
           "children": [],
           "repo_info": {
@@ -720,7 +720,7 @@
             "last_commit": "2026-08-24T08:56:19Z",
             "owner": "python",
             "repo": "mypy",
-            "stars": 20599
+            "stars": 20602
           }
         },
         {
@@ -761,7 +761,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "psf/black",
           "description": "(👨‍💻 550 · 🔀 2.8K · 📦 690K):",
           "children": [],
           "repo_info": {
@@ -771,7 +771,7 @@
             "last_commit": "2026-08-20T13:01:16Z",
             "owner": "psf",
             "repo": "black",
-            "stars": 41815
+            "stars": 41814
           }
         }
       ],
@@ -782,7 +782,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PyCQA/isort",
           "description": "(👨‍💻 350 · 🔀 680 · 📦 590K):",
           "children": [],
           "repo_info": {
@@ -803,7 +803,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "google/yapf",
           "description": "(👨‍💻 160 · 🔀 900 · 📦 110K):",
           "children": [],
           "repo_info": {
@@ -813,7 +813,7 @@
             "last_commit": "2026-08-21T16:05:20Z",
             "owner": "google",
             "repo": "yapf",
-            "stars": 13979
+            "stars": 13980
           }
         }
       ],
@@ -890,7 +890,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "davidhalter/jedi",
           "description": "(👨‍💻 180 · 🔀 530 · 📦 600K):",
           "children": [],
           "repo_info": {
@@ -911,7 +911,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jendrikseipp/vulture",
           "description": "(👨‍💻 56 · 🔀 200 · 📦 7.7K):",
           "children": [],
           "repo_info": {
@@ -921,7 +921,7 @@
             "last_commit": "2026-04-30T05:28:50Z",
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4775
+            "stars": 4776
           }
         }
       ],
@@ -932,7 +932,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "python-rope/rope",
           "description": "(👨‍💻 87 · 🔀 190 · 📦 79K):",
           "children": [],
           "repo_info": {
@@ -953,7 +953,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "asottile/pyupgrade",
           "description": "(👨‍💻 37 · 🔀 200):",
           "children": [],
           "repo_info": {
@@ -963,7 +963,7 @@
             "last_commit": "2026-08-21T20:08:09Z",
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4113
+            "stars": 4114
           }
         }
       ],
@@ -974,7 +974,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "asottile/add-trailing-comma",
           "description": "(👨‍💻 11 · 🔀 29):",
           "children": [],
           "repo_info": {
@@ -995,7 +995,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "elmotec/massedit",
           "description": "(👨‍💻 9 · 🔀 14 · 📦 54):",
           "children": [],
           "repo_info": {
@@ -1172,7 +1172,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PyCQA/bandit",
           "description": "(👨‍💻 200 · 🔀 780 · 📦 68K):",
           "children": [],
           "repo_info": {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-08-24T11:13:47Z",
             "owner": "PyCQA",
             "repo": "bandit",
-            "stars": 8236
+            "stars": 8237
           }
         }
       ],
@@ -1193,7 +1193,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pyupio/safety",
           "description": "(👨‍💻 56 · 🔀 180 · 📦 20K):",
           "children": [],
           "repo_info": {
@@ -1214,7 +1214,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sqlmapproject/sqlmap",
           "description": "(👨‍💻 160 · 🔀 6.3K · 📦 24):",
           "children": [],
           "repo_info": {
@@ -1224,7 +1224,7 @@
             "last_commit": "2026-08-23T15:35:59Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38254
+            "stars": 38258
           }
         }
       ],
@@ -1235,7 +1235,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dlint-py/dlint",
           "description": "(👨‍💻 16 · 🔀 17):",
           "children": [],
           "repo_info": {
@@ -1281,7 +1281,7 @@
             "last_commit": "2026-04-02T17:10:40Z",
             "owner": "Yelp",
             "repo": "detect-secrets",
-            "stars": 4626
+            "stars": 4628
           }
         },
         {
@@ -1322,14 +1322,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pypa/virtualenv",
           "description": "(👨‍💻 310 · 🔀 1.1K · 📦 510K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1446474,
             "language": "Python",
-            "last_commit": "2026-08-23T19:19:35Z",
+            "last_commit": "2026-08-25T05:37:56Z",
             "owner": "pypa",
             "repo": "virtualenv",
             "stars": 5042
@@ -1343,17 +1343,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pypa/pipenv",
           "description": "(👨‍💻 550 · 🔀 1.9K · 📦 170K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 79510167,
             "language": "Python",
-            "last_commit": "2026-08-21T02:43:02Z",
+            "last_commit": "2026-08-24T22:09:52Z",
             "owner": "pypa",
             "repo": "pipenv",
-            "stars": 25039
+            "stars": 25038
           }
         }
       ],
@@ -1364,7 +1364,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ekalinin/nodeenv",
           "description": "(👨‍💻 110 · 🔀 220 · 📦 150K):",
           "children": [],
           "repo_info": {
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-08-16T22:51:28Z",
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45043
+            "stars": 45042
           }
         },
         {
@@ -1496,7 +1496,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pypa/pip",
           "description": "(👨‍💻 910 · 🔀 3.3K · 📦 260K):",
           "children": [],
           "repo_info": {
@@ -1517,17 +1517,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "python-poetry/poetry",
           "description": "(👨‍💻 670 · 🔀 2.5K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 123303402,
             "language": "Python",
-            "last_commit": "2026-08-23T20:01:37Z",
+            "last_commit": "2026-08-24T21:33:54Z",
             "owner": "python-poetry",
             "repo": "poetry",
-            "stars": 34292
+            "stars": 34291
           }
         }
       ],
@@ -1538,14 +1538,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pypa/pipx",
           "description": "(👨‍💻 210 · 🔀 590 · 📦 4.9K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 151871286,
             "language": "Python",
-            "last_commit": "2026-08-23T18:54:30Z",
+            "last_commit": "2026-08-25T05:37:18Z",
             "owner": "pypa",
             "repo": "pipx",
             "stars": 12945
@@ -1559,7 +1559,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jazzband/pip-tools",
           "description": "(👨‍💻 230 · 🔀 670 · 📦 38K):",
           "children": [],
           "repo_info": {
@@ -1580,7 +1580,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pdm-project/pdm",
           "description": "(👨‍💻 260 · 🔀 480 · 📦 630):",
           "children": [],
           "repo_info": {
@@ -1590,7 +1590,7 @@
             "last_commit": "2026-08-21T06:27:07Z",
             "owner": "pdm-project",
             "repo": "pdm",
-            "stars": 8670
+            "stars": 8671
           }
         }
       ],
@@ -1601,14 +1601,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "conda/conda",
           "description": "(👨‍💻 500 · 🔀 2.2K · 📦 52K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 6235174,
             "language": "Python",
-            "last_commit": "2026-08-24T13:33:31Z",
+            "last_commit": "2026-08-24T17:05:28Z",
             "owner": "conda",
             "repo": "conda",
             "stars": 7492
@@ -1622,7 +1622,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bndr/pipreqs",
           "description": "(👨‍💻 76 · 🔀 420 · 📦 41K):",
           "children": [],
           "repo_info": {
@@ -1643,7 +1643,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mamba-org/mamba",
           "description": "(👨‍💻 190 · 🔀 450):",
           "children": [],
           "repo_info": {
@@ -1653,7 +1653,7 @@
             "last_commit": "2026-08-21T14:33:07Z",
             "owner": "mamba-org",
             "repo": "mamba",
-            "stars": 8080
+            "stars": 8081
           }
         }
       ],
@@ -1664,7 +1664,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "David-OConnor/pyflow",
           "description": "(👨‍💻 30 · 🔀 48 · 📦 44):",
           "children": [],
           "repo_info": {
@@ -1721,7 +1721,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PyCQA/mccabe",
           "description": "(👨‍💻 24 · 🔀 63 · 📦 530K):",
           "children": [],
           "repo_info": {
@@ -1742,7 +1742,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tonybaloney/wily",
           "description": "(👨‍💻 25 · 🔀 67 · 📦 310):",
           "children": [],
           "repo_info": {
@@ -1773,7 +1773,7 @@
             "last_commit": "2024-10-20T09:52:54Z",
             "owner": "rubik",
             "repo": "radon",
-            "stars": 2007
+            "stars": 2009
           }
         },
         {
@@ -1814,7 +1814,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tqdm/tqdm",
           "description": "(👨‍💻 150 · 🔀 1.5K · 📦 1.2M):",
           "children": [],
           "repo_info": {
@@ -1835,7 +1835,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Textualize/rich",
           "description": "(👨‍💻 290 · 🔀 2.2K · 📦 560K):",
           "children": [],
           "repo_info": {
@@ -1845,7 +1845,7 @@
             "last_commit": "2026-06-23T03:10:19Z",
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57165
+            "stars": 57207
           }
         }
       ],
@@ -1856,7 +1856,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Delgan/loguru",
           "description": "(👨‍💻 77 · 🔀 800 · 📦 160K):",
           "children": [],
           "repo_info": {
@@ -1866,7 +1866,7 @@
             "last_commit": "2026-08-23T18:09:18Z",
             "owner": "Delgan",
             "repo": "loguru",
-            "stars": 24079
+            "stars": 24080
           }
         }
       ],
@@ -1877,7 +1877,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hynek/structlog",
           "description": "(👨‍💻 140 · 🔀 280 · 📦 38K):",
           "children": [],
           "repo_info": {
@@ -1898,14 +1898,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "getsentry/sentry-python",
           "description": "(👨‍💻 350 · 🔀 650):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 137814779,
             "language": "Python",
-            "last_commit": "2026-08-24T14:05:20Z",
+            "last_commit": "2026-08-24T17:15:37Z",
             "owner": "getsentry",
             "repo": "sentry-python",
             "stars": 2203
@@ -1919,7 +1919,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "astanin/python-tabulate",
           "description": "(👨‍💻 110 · 🔀 200):",
           "children": [],
           "repo_info": {
@@ -1940,7 +1940,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "madzak/python-json-logger",
           "description": "(👨‍💻 64 · 🔀 230):",
           "children": [],
           "repo_info": {
@@ -1961,7 +1961,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "borntyping/python-colorlog",
           "description": "(👨‍💻 37 · 🔀 99 · 📦 68K):",
           "children": [],
           "repo_info": {
@@ -1982,7 +1982,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "xolox/python-coloredlogs",
           "description": "(👨‍💻 17 · 🔀 45 · 📦 87K):",
           "children": [],
           "repo_info": {
@@ -2003,7 +2003,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rsalmei/alive-progress",
           "description": "(👨‍💻 11 · 🔀 210 · 📦 5.2K):",
           "children": [],
           "repo_info": {
@@ -2024,7 +2024,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wolph/python-progressbar",
           "description": "(👨‍💻 140 · 🔀 110):",
           "children": [],
           "repo_info": {
@@ -2045,7 +2045,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cknd/stackprinter",
           "description": "(👨‍💻 9 · 🔀 42 · 📦 450):",
           "children": [],
           "repo_info": {
@@ -2066,7 +2066,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Qix-/better-exceptions",
           "description": "(👨‍💻 20 · 🔀 200):",
           "children": [],
           "repo_info": {
@@ -2087,7 +2087,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "shobrook/rebound",
           "description": "(👨‍💻 16 · 🔀 380):",
           "children": [],
           "repo_info": {
@@ -2130,7 +2130,7 @@
             "archived": false,
             "id": 93045038,
             "language": "Python",
-            "last_commit": "2026-08-17T23:21:41Z",
+            "last_commit": "2026-08-24T17:43:07Z",
             "owner": "liiight",
             "repo": "notifiers",
             "stars": 2737
@@ -2160,7 +2160,7 @@
             "archived": false,
             "id": 790576,
             "language": "Python",
-            "last_commit": "2026-08-24T12:23:28Z",
+            "last_commit": "2026-08-24T21:07:07Z",
             "owner": "getlogbook",
             "repo": "logbook",
             "stars": 1505
@@ -2219,7 +2219,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "xxh/xxh",
           "description": "(👨‍💻 29 · 🔀 120):",
           "children": [],
           "repo_info": {
@@ -2229,7 +2229,7 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6073
+            "stars": 6075
           }
         }
       ],
@@ -2247,10 +2247,10 @@
             "archived": false,
             "id": 29620400,
             "language": "Python",
-            "last_commit": "2026-08-23T15:43:08Z",
+            "last_commit": "2026-08-24T17:53:02Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9616
+            "stars": 9619
           }
         }
       ],
@@ -2261,7 +2261,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "squidfunk/mkdocs-material",
           "description": "(👨‍💻 330 · 🔀 4.1K · 📦 92K):",
           "children": [],
           "repo_info": {
@@ -2271,7 +2271,7 @@
             "last_commit": "2026-08-09T08:59:52Z",
             "owner": "squidfunk",
             "repo": "mkdocs-material",
-            "stars": 27322
+            "stars": 27325
           }
         }
       ],
@@ -2282,7 +2282,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mkdocs/mkdocs",
           "description": "(👨‍💻 260 · 🔀 2.6K · 📦 110K):",
           "children": [],
           "repo_info": {
@@ -2292,7 +2292,7 @@
             "last_commit": "2025-10-20T13:17:06Z",
             "owner": "mkdocs",
             "repo": "mkdocs",
-            "stars": 22369
+            "stars": 22372
           }
         }
       ],
@@ -2303,7 +2303,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "readthedocs/sphinx_rtd_theme",
           "description": "(👨‍💻 120 · 🔀 1.8K · 📦 16):",
           "children": [],
           "repo_info": {
@@ -2324,7 +2324,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mkdocstrings/mkdocstrings",
           "description": "(👨‍💻 55 · 🔀 120 · 📦 30K):",
           "children": [],
           "repo_info": {
@@ -2334,7 +2334,7 @@
             "last_commit": "2026-07-11T19:37:56Z",
             "owner": "mkdocstrings",
             "repo": "mkdocstrings",
-            "stars": 2083
+            "stars": 2084
           }
         }
       ],
@@ -2345,7 +2345,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mkdocstrings/griffe",
           "description": "(👨‍💻 50 · 🔀 71 · 📦 18K):",
           "children": [],
           "repo_info": {
@@ -2355,7 +2355,7 @@
             "last_commit": "2026-08-22T10:00:00Z",
             "owner": "mkdocstrings",
             "repo": "griffe",
-            "stars": 681
+            "stars": 682
           }
         }
       ],
@@ -2366,14 +2366,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tox-dev/sphinx-autodoc-typehints",
           "description": "(👨‍💻 70 · 🔀 110 · 📦 62K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 42892576,
             "language": "Python",
-            "last_commit": "2026-08-23T18:35:28Z",
+            "last_commit": "2026-08-24T17:11:35Z",
             "owner": "tox-dev",
             "repo": "sphinx-autodoc-typehints",
             "stars": 587
@@ -2387,7 +2387,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "clayrisser/sphinx-markdown-builder",
           "description": "(👨‍💻 19 · 🔀 60 · 📦 1.6K):",
           "children": [],
           "repo_info": {
@@ -2408,7 +2408,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pdoc3/pdoc",
           "description": "(👨‍💻 69 · 🔀 140 · 📦 5.3K):",
           "children": [],
           "repo_info": {
@@ -2429,7 +2429,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "econchick/interrogate",
           "description": "(👨‍💻 17 · 🔀 49 · 📦 9.5K):",
           "children": [],
           "repo_info": {
@@ -2450,14 +2450,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ml-tooling/lazydocs",
           "description": "(👨‍💻 13 · 🔀 43 · 📦 420):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 311500896,
             "language": "Python",
-            "last_commit": "2026-08-04T16:29:08Z",
+            "last_commit": "2026-08-25T02:34:02Z",
             "owner": "ml-tooling",
             "repo": "lazydocs",
             "stars": 250
@@ -2471,7 +2471,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "timvink/mkdocs-print-site-plugin",
           "description": "(👨‍💻 17 · 🔀 28):",
           "children": [],
           "repo_info": {
@@ -2517,7 +2517,7 @@
             "last_commit": "2026-07-01T08:04:25Z",
             "owner": "mitmproxy",
             "repo": "pdoc",
-            "stars": 2509
+            "stars": 2510
           }
         },
         {
@@ -2562,7 +2562,7 @@
             "last_commit": "2026-04-10T15:47:59Z",
             "owner": "lukasgeiter",
             "repo": "mkdocs-awesome-nav",
-            "stars": 625
+            "stars": 626
           }
         },
         {
@@ -2693,7 +2693,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gruns/icecream",
           "description": "(👨‍💻 39 · 🔀 220 · 📦 24):",
           "children": [],
           "repo_info": {
@@ -2714,7 +2714,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "eliben/pyelftools",
           "description": "(👨‍💻 110 · 🔀 550 · 📦 13K):",
           "children": [],
           "repo_info": {
@@ -2724,7 +2724,7 @@
             "last_commit": "2026-07-30T13:12:41Z",
             "owner": "eliben",
             "repo": "pyelftools",
-            "stars": 2274
+            "stars": 2275
           }
         }
       ],
@@ -2735,7 +2735,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "alexmojaki/snoop",
           "description": "(👨‍💻 23 · 🔀 43):",
           "children": [],
           "repo_info": {
@@ -2756,7 +2756,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pdbpp/pdbpp",
           "description": "(👨‍💻 41 · 🔀 74):",
           "children": [],
           "repo_info": {
@@ -2777,7 +2777,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ionelmc/python-hunter",
           "description": "(👨‍💻 10 · 🔀 51):",
           "children": [],
           "repo_info": {
@@ -2798,7 +2798,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "alexmojaki/birdseye",
           "description": "(👨‍💻 10 · 🔀 73):",
           "children": [],
           "repo_info": {
@@ -2940,7 +2940,7 @@
             "last_commit": "2026-08-20T21:41:23Z",
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2749
+            "stars": 2750
           }
         }
       ],
@@ -2951,14 +2951,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pytest-dev/pytest",
           "description": "(👨‍💻 1.2K · 🔀 3.3K · 📦 1.9M):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 37489525,
             "language": "Python",
-            "last_commit": "2026-08-24T04:09:25Z",
+            "last_commit": "2026-08-24T21:30:06Z",
             "owner": "pytest-dev",
             "repo": "pytest",
             "stars": 14441
@@ -2972,7 +2972,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/playwright-python",
           "description": "(👨‍💻 57 · 🔀 1.2K · 📦 61K):",
           "children": [],
           "repo_info": {
@@ -2982,7 +2982,7 @@
             "last_commit": "2026-08-20T17:53:07Z",
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 14943
+            "stars": 14947
           }
         }
       ],
@@ -2993,7 +2993,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "HypothesisWorks/hypothesis",
           "description": "(👨‍💻 420 · 🔀 670 · 📦 45K):",
           "children": [],
           "repo_info": {
@@ -3003,7 +3003,7 @@
             "last_commit": "2026-08-23T00:05:17Z",
             "owner": "HypothesisWorks",
             "repo": "hypothesis",
-            "stars": 8910
+            "stars": 8912
           }
         }
       ],
@@ -3014,14 +3014,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tox-dev/tox",
           "description": "(👨‍💻 360 · 🔀 570 · 📦 140K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 68465360,
             "language": "Python",
-            "last_commit": "2026-08-23T18:30:18Z",
+            "last_commit": "2026-08-25T05:38:25Z",
             "owner": "tox-dev",
             "repo": "tox",
             "stars": 3924
@@ -3035,7 +3035,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pytest-dev/pytest-asyncio",
           "description": "(👨‍💻 82 · 🔀 200 · 📦 220K):",
           "children": [],
           "repo_info": {
@@ -3056,17 +3056,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "robotframework/robotframework",
           "description": "(👨‍💻 240 · 🔀 2.6K · 📦 14K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 21273155,
             "language": "Python",
-            "last_commit": "2026-08-24T09:24:43Z",
+            "last_commit": "2026-08-24T22:19:12Z",
             "owner": "robotframework",
             "repo": "robotframework",
-            "stars": 11841
+            "stars": 11843
           }
         }
       ],
@@ -3077,7 +3077,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pytest-dev/pytest-cov",
           "description": "(👨‍💻 100 · 🔀 240):",
           "children": [],
           "repo_info": {
@@ -3098,14 +3098,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pytest-dev/pytest-mock",
           "description": "(👨‍💻 85 · 🔀 170 · 📦 140K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 21923259,
             "language": "Python",
-            "last_commit": "2026-08-21T16:49:42Z",
+            "last_commit": "2026-08-24T21:30:11Z",
             "owner": "pytest-dev",
             "repo": "pytest-mock",
             "stars": 2038
@@ -3119,17 +3119,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pytest-dev/pytest-xdist",
           "description": "(👨‍💻 120 · 🔀 280 · 📦 140K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 41756998,
             "language": "Python",
-            "last_commit": "2026-08-22T17:38:31Z",
+            "last_commit": "2026-08-24T21:30:25Z",
             "owner": "pytest-dev",
             "repo": "pytest-xdist",
-            "stars": 1899
+            "stars": 1898
           }
         }
       ],
@@ -3140,7 +3140,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "asweigart/pyautogui",
           "description": "(👨‍💻 52 · 🔀 1.3K · 📦 57K):",
           "children": [],
           "repo_info": {
@@ -3161,17 +3161,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pytest-dev/pytest-bdd",
           "description": "(👨‍💻 71 · 🔀 250 · 📦 5K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 9094192,
             "language": "Python",
-            "last_commit": "2026-08-17T21:57:22Z",
+            "last_commit": "2026-08-24T21:29:53Z",
             "owner": "pytest-dev",
             "repo": "pytest-bdd",
-            "stars": 1461
+            "stars": 1462
           }
         }
       ],
@@ -3182,7 +3182,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lk-geimfari/mimesis",
           "description": "(👨‍💻 130 · 🔀 360 · 📦 2.3K):",
           "children": [],
           "repo_info": {
@@ -3203,7 +3203,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "spulec/freezegun",
           "description": "(👨‍💻 130 · 🔀 290):",
           "children": [],
           "repo_info": {
@@ -3224,7 +3224,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Teemu/pytest-sugar",
           "description": "(👨‍💻 58 · 🔀 81 · 📦 31K):",
           "children": [],
           "repo_info": {
@@ -3245,7 +3245,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pytest-dev/pytest-html",
           "description": "(👨‍💻 66 · 🔀 250 · 📦 59K):",
           "children": [],
           "repo_info": {
@@ -3266,7 +3266,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ionelmc/pytest-benchmark",
           "description": "(👨‍💻 55 · 🔀 140):",
           "children": [],
           "repo_info": {
@@ -3287,7 +3287,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "airspeed-velocity/asv",
           "description": "(👨‍💻 98 · 🔀 210 · 📦 1.8K):",
           "children": [],
           "repo_info": {
@@ -3308,14 +3308,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nose-devs/nose2",
           "description": "(👨‍💻 86 · 🔀 130 · 📦 27K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 2980827,
             "language": "Python",
-            "last_commit": "2026-08-17T17:03:55Z",
+            "last_commit": "2026-08-24T17:03:29Z",
             "owner": "nose-devs",
             "repo": "nose2",
             "stars": 826
@@ -3329,7 +3329,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pytest-dev/pytest-randomly",
           "description": "(👨‍💻 20 · 🔀 34 · 📦 13K):",
           "children": [],
           "repo_info": {
@@ -3339,7 +3339,7 @@
             "last_commit": "2026-08-23T22:09:07Z",
             "owner": "pytest-dev",
             "repo": "pytest-randomly",
-            "stars": 719
+            "stars": 720
           }
         }
       ],
@@ -3350,7 +3350,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "TheKevJames/coveralls-python",
           "description": "(👨‍💻 67 · 🔀 190 · 📦 37K):",
           "children": [],
           "repo_info": {
@@ -3371,7 +3371,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pytest-dev/pytest-testinfra",
           "description": "(👨‍💻 140 · 🔀 360 · 📦 2.7K):",
           "children": [],
           "repo_info": {
@@ -3392,7 +3392,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tarpas/pytest-testmon",
           "description": "(👨‍💻 29 · 🔀 78 · 📦 1.7K):",
           "children": [],
           "repo_info": {
@@ -3402,7 +3402,7 @@
             "last_commit": "2025-12-01T07:34:04Z",
             "owner": "tarpas",
             "repo": "pytest-testmon",
-            "stars": 1008
+            "stars": 1009
           }
         }
       ],
@@ -3413,7 +3413,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "joeyespo/pytest-watch",
           "description": "(👨‍💻 16 · 🔀 54 · 📦 12K):",
           "children": [],
           "repo_info": {
@@ -3434,7 +3434,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "avast/pytest-docker",
           "description": "(👨‍💻 30 · 🔀 77 · 📦 2.7K):",
           "children": [],
           "repo_info": {
@@ -3455,14 +3455,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gabrielcnr/pytest-datadir",
           "description": "(👨‍💻 16 · 🔀 26 · 📦 2.3K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 38458365,
             "language": "Python",
-            "last_commit": "2026-08-17T19:26:15Z",
+            "last_commit": "2026-08-24T19:04:11Z",
             "owner": "gabrielcnr",
             "repo": "pytest-datadir",
             "stars": 275
@@ -3476,7 +3476,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CleanCut/green",
           "description": "(👨‍💻 41 · 🔀 75 · 📦 1.4K):",
           "children": [],
           "repo_info": {
@@ -3497,7 +3497,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Erotemic/xdoctest",
           "description": "(👨‍💻 14 · 🔀 18):",
           "children": [],
           "repo_info": {
@@ -3518,7 +3518,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "man-group/pytest-plugins",
           "description": "(👨‍💻 67 · 🔀 89):",
           "children": [],
           "repo_info": {
@@ -3725,7 +3725,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pyinstaller/pyinstaller",
           "description": "(👨‍💻 500 · 🔀 2K · 📦 91K):",
           "children": [],
           "repo_info": {
@@ -3735,7 +3735,7 @@
             "last_commit": "2026-08-23T15:03:06Z",
             "owner": "pyinstaller",
             "repo": "pyinstaller",
-            "stars": 13074
+            "stars": 13076
           }
         }
       ],
@@ -3746,7 +3746,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Nuitka/Nuitka",
           "description": "(👨‍💻 210 · 🔀 780 · 📦 4K):",
           "children": [],
           "repo_info": {
@@ -3756,7 +3756,7 @@
             "last_commit": "2026-08-24T12:04:05Z",
             "owner": "Nuitka",
             "repo": "Nuitka",
-            "stars": 15100
+            "stars": 15101
           }
         }
       ],
@@ -3767,7 +3767,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "beeware/briefcase",
           "description": "(👨‍💻 220 · 🔀 520 · 📦 880):",
           "children": [],
           "repo_info": {
@@ -3788,7 +3788,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "marcelotduarte/cx_Freeze",
           "description": "(👨‍💻 130 · 🔀 240):",
           "children": [],
           "repo_info": {
@@ -3809,7 +3809,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "py2exe/py2exe",
           "description": "(👨‍💻 25 · 🔀 110 · 📦 2.3K):",
           "children": [],
           "repo_info": {
@@ -3830,7 +3830,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ronaldoussoren/py2app",
           "description": "(👨‍💻 31 · 🔀 45 · 📦 5.6K):",
           "children": [],
           "repo_info": {
@@ -3851,7 +3851,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "linkedin/shiv",
           "description": "(👨‍💻 45 · 🔀 110):",
           "children": [],
           "repo_info": {
@@ -3872,14 +3872,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "conda/constructor",
           "description": "(👨‍💻 81 · 🔀 180 · 📦 28):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 51571636,
             "language": "Python",
-            "last_commit": "2026-08-24T12:17:01Z",
+            "last_commit": "2026-08-24T17:56:09Z",
             "owner": "conda",
             "repo": "constructor",
             "stars": 497
@@ -3975,7 +3975,7 @@
             "archived": false,
             "id": 258096581,
             "language": "Python",
-            "last_commit": "2026-07-19T22:30:09Z",
+            "last_commit": "2026-08-25T04:26:08Z",
             "owner": "jamesabel",
             "repo": "pyship",
             "stars": 45
@@ -3989,7 +3989,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pypa/setuptools",
           "description": "(👨‍💻 650 · 🔀 1.4K · 📦 870K):",
           "children": [],
           "repo_info": {
@@ -4010,7 +4010,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pypa/wheel",
           "description": "(👨‍💻 92 · 🔀 190 · 📦 390K):",
           "children": [],
           "repo_info": {
@@ -4031,7 +4031,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pypa/twine",
           "description": "(👨‍💻 130 · 🔀 330 · 📦 150K):",
           "children": [],
           "repo_info": {
@@ -4052,7 +4052,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pyinvoke/invoke",
           "description": "(👨‍💻 63 · 🔀 390 · 📦 35K):",
           "children": [],
           "repo_info": {
@@ -4073,7 +4073,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "SCons/scons",
           "description": "(👨‍💻 170 · 🔀 360 · 📦 4.3K):",
           "children": [],
           "repo_info": {
@@ -4094,7 +4094,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pypa/flit",
           "description": "(👨‍💻 83 · 🔀 160 · 📦 2.8K):",
           "children": [],
           "repo_info": {
@@ -4115,7 +4115,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pydoit/doit",
           "description": "(👨‍💻 70 · 🔀 190 · 📦 2.3K):",
           "children": [],
           "repo_info": {
@@ -4136,7 +4136,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "buildbot/buildbot",
           "description": "(👨‍💻 910 · 🔀 1.6K · 📦 420):",
           "children": [],
           "repo_info": {
@@ -4157,14 +4157,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pybuilder/pybuilder",
           "description": "(👨‍💻 40 · 🔀 270):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 5150954,
             "language": "Python",
-            "last_commit": "2026-04-02T06:20:27Z",
+            "last_commit": "2026-08-25T01:30:56Z",
             "owner": "pybuilder",
             "repo": "pybuilder",
             "stars": 2037
@@ -4178,7 +4178,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ml-tooling/universal-build",
           "description": "(👨‍💻 5 · 🔀 8):",
           "children": [],
           "repo_info": {
@@ -4250,14 +4250,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "giampaolo/psutil",
           "description": "(👨‍💻 260 · 🔀 1.5K · 📦 800K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 20101515,
             "language": "Python",
-            "last_commit": "2026-08-19T16:29:50Z",
+            "last_commit": "2026-08-24T16:52:21Z",
             "owner": "giampaolo",
             "repo": "psutil",
             "stars": 11267
@@ -4271,7 +4271,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "benfred/py-spy",
           "description": "(👨‍💻 57 · 🔀 540 · 📦 8.9K):",
           "children": [],
           "repo_info": {
@@ -4281,7 +4281,7 @@
             "last_commit": "2026-08-14T01:33:58Z",
             "owner": "benfred",
             "repo": "py-spy",
-            "stars": 15447
+            "stars": 15448
           }
         }
       ],
@@ -4292,7 +4292,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "joerick/pyinstrument",
           "description": "(👨‍💻 78 · 🔀 300 · 📦 4.6K):",
           "children": [],
           "repo_info": {
@@ -4313,7 +4313,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bloomberg/memray",
           "description": "(👨‍💻 77 · 🔀 460 · 📦 24):",
           "children": [],
           "repo_info": {
@@ -4334,7 +4334,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "plasma-umass/scalene",
           "description": "(👨‍💻 62 · 🔀 440 · 📦 1.1K):",
           "children": [],
           "repo_info": {
@@ -4355,7 +4355,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sumerc/yappi",
           "description": "(👨‍💻 35 · 🔀 82 · 📦 1.7K):",
           "children": [],
           "repo_info": {
@@ -4376,7 +4376,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pythonprofilers/memory_profiler",
           "description": "(👨‍💻 100 · 🔀 390):",
           "children": [],
           "repo_info": {
@@ -4386,7 +4386,7 @@
             "last_commit": "2024-04-29T15:39:56Z",
             "owner": "pythonprofilers",
             "repo": "memory_profiler",
-            "stars": 4575
+            "stars": 4576
           }
         }
       ],
@@ -4397,7 +4397,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "fabianp/memory_profiler",
           "description": "(👨‍💻 62 · 🔀 390):",
           "children": [],
           "repo_info": {
@@ -4418,7 +4418,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pympler/pympler",
           "description": "(👨‍💻 31 · 🔀 93):",
           "children": [],
           "repo_info": {
@@ -4439,7 +4439,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pyutils/line_profiler",
           "description": "(👨‍💻 55 · 🔀 140):",
           "children": [],
           "repo_info": {
@@ -4470,7 +4470,7 @@
             "last_commit": "2026-08-23T15:59:11Z",
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33417
+            "stars": 33421
           }
         },
         {
@@ -4586,7 +4586,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "alexmojaki/executing",
           "description": "(👨‍💻 12 · 🔀 38 · 📦 350K):",
           "children": [],
           "repo_info": {
@@ -4607,7 +4607,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "serge-sans-paille/gast",
           "description": "(👨‍💻 13 · 🔀 38 · 📦 220K):",
           "children": [],
           "repo_info": {
@@ -4712,7 +4712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:06.628Z",
+    "last_updated": "2026-08-25T06:05:21.198Z",
     "original_repository": "ml-tooling/best-of-python-dev",
     "original_repository_id": 327929724,
     "original_repository_sha": "c03e1f695de8145ba24e60eb2f62586d3886e2b7",
