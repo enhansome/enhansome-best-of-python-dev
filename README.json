@@ -16,10 +16,55 @@
             "owner": "PyCQA",
             "repo": "flake8",
             "stars": 3822
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "flake8 (🥇32 · ⭐ 3.8K) - Flake8 is a wrapper around these tools: PyFlakes; pycodestyle; Ned.. MIT"
+      "title": "flake8 (🥇29 · ⭐ 3.8K) - Flake8 is a wrapper around these tools: PyFlakes; pycodestyle; Ned.. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wemake-services/wemake-python-styleguide",
+          "description": "(👨‍💻 230 · 🔀 430 · 📦 18K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124593057,
+            "language": "Python",
+            "last_commit": "2026-08-28T10:45:59Z",
+            "owner": "wemake-services",
+            "repo": "wemake-python-styleguide",
+            "stars": 2895
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        }
+      ],
+      "title": "wemake-python-styleguide (🥇29 · ⭐ 2.9K) - The strictest and most opinionated python linter ever!. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "beartype/beartype",
+          "description": "(👨‍💻 33 · 🔀 80 · 📦 14K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252646465,
+            "language": "Python",
+            "last_commit": "2026-08-28T07:32:24Z",
+            "owner": "beartype",
+            "repo": "beartype",
+            "stars": 3488
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        }
+      ],
+      "title": "beartype (🥈28 · ⭐ 3.5K) - Unbearably fast near-real-time pure-Python runtime-static type-checker. MIT"
     },
     {
       "description": null,
@@ -36,53 +81,12 @@
             "last_commit": "2026-07-31T20:33:50Z",
             "owner": "davidhalter",
             "repo": "parso",
-            "stars": 678
-          }
+            "stars": 679
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "parso (🥇30 · ⭐ 670) - A Python Parser. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wemake-services/wemake-python-styleguide",
-          "description": "(👨‍💻 230 · 🔀 420 · 📦 18K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 124593057,
-            "language": "Python",
-            "last_commit": "2026-08-25T10:41:33Z",
-            "owner": "wemake-services",
-            "repo": "wemake-python-styleguide",
-            "stars": 2895
-          }
-        }
-      ],
-      "title": "wemake-python-styleguide (🥈29 · ⭐ 2.9K) - The strictest and most opinionated python linter ever!. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "beartype/beartype",
-          "description": "(👨‍💻 33 · 🔀 80 · 📦 14K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 252646465,
-            "language": "Python",
-            "last_commit": "2026-08-22T06:42:21Z",
-            "owner": "beartype",
-            "repo": "beartype",
-            "stars": 3488
-          }
-        }
-      ],
-      "title": "beartype (🥈28 · ⭐ 3.5K) - Unbearably fast near-real-time pure-Python runtime-static type-checker. MIT"
+      "title": "parso (🥈28 · ⭐ 670) - A Python Parser. MIT"
     },
     {
       "description": null,
@@ -100,31 +104,11 @@
             "owner": "PyCQA",
             "repo": "pycodestyle",
             "stars": 5166
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pycodestyle (🥈27 · ⭐ 5.2K · 💤) - Simple Python style checker in one Python file. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PyCQA/flake8-bugbear",
-          "description": "(👨‍💻 94 · 🔀 120 · 📦 43K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 53977862,
-            "language": "Python",
-            "last_commit": "2026-08-22T16:21:47Z",
-            "owner": "PyCQA",
-            "repo": "flake8-bugbear",
-            "stars": 1116
-          }
-        }
-      ],
-      "title": "flake8-bugbear (🥈27 · ⭐ 1.1K) - A plugin for Flake8 finding likely bugs and design problems.. MIT"
     },
     {
       "description": null,
@@ -142,7 +126,8 @@
             "owner": "openstack",
             "repo": "hacking",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "hacking (🥈26 · ⭐ 240) - OpenStack Hacking Style Checks. Mirror of code maintained at.. Apache-2"
@@ -163,10 +148,33 @@
             "owner": "gforcada",
             "repo": "flake8-isort",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "flake8-isort (🥈25 · ⭐ 180 · 💤) - flake8 plugin that integrates isort. ❗️GPL-2.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyCQA/flake8-bugbear",
+          "description": "(👨‍💻 94 · 🔀 120 · 📦 43K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53977862,
+            "language": "Python",
+            "last_commit": "2026-08-22T16:21:47Z",
+            "owner": "PyCQA",
+            "repo": "flake8-bugbear",
+            "stars": 1116
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        }
+      ],
+      "title": "flake8-bugbear (🥈24 · ⭐ 1.1K) - A plugin for Flake8 finding likely bugs and design problems.. MIT"
     },
     {
       "description": null,
@@ -184,31 +192,11 @@
             "owner": "adamchainz",
             "repo": "flake8-comprehensions",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "flake8-comprehensions (🥉24 · ⭐ 470 · 💤) - A flake8 plugin to help you write better.. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mgedmin/check-manifest",
-          "description": "(👨‍💻 23 · 🔀 37 · 📦 12K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 8582627,
-            "language": "Python",
-            "last_commit": "2026-08-04T18:39:30Z",
-            "owner": "mgedmin",
-            "repo": "check-manifest",
-            "stars": 293
-          }
-        }
-      ],
-      "title": "check-manifest (🥉24 · ⭐ 290 · 💤) - Tool to check the completeness of MANIFEST.in for Python.. MIT"
+      "title": "flake8-comprehensions (🥈24 · ⭐ 470 · 💤) - A flake8 plugin to help you write better.. MIT"
     },
     {
       "description": null,
@@ -226,7 +214,8 @@
             "owner": "peterjc",
             "repo": "flake8-black",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "flake8-black (🥉22 · ⭐ 160 · 💤) - flake8 plugin to run black for checking Python coding style. MIT"
@@ -247,7 +236,8 @@
             "owner": "PyCQA",
             "repo": "flake8-commas",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "flake8-commas (🥉22 · ⭐ 130 · 💤) - Flake8 extension for enforcing trailing commas in python. MIT"
@@ -268,10 +258,55 @@
             "owner": "gforcada",
             "repo": "flake8-builtins",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "flake8-builtins (🥉22 · ⭐ 120 · 💤) - Check for python builtins being used as variables or.. ❗️GPL-2.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mgedmin/check-manifest",
+          "description": "(👨‍💻 23 · 🔀 37 · 📦 12K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8582627,
+            "language": "Python",
+            "last_commit": "2026-08-04T18:39:30Z",
+            "owner": "mgedmin",
+            "repo": "check-manifest",
+            "stars": 293
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        }
+      ],
+      "title": "check-manifest (🥉21 · ⭐ 290 · 💤) - Tool to check the completeness of MANIFEST.in for Python.. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "andreoliwa/nitpick",
+          "description": "(👨‍💻 18 · 🔀 24 · 📦 1.4K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126496135,
+            "language": "Python",
+            "last_commit": "2026-08-27T22:36:03Z",
+            "owner": "andreoliwa",
+            "repo": "nitpick",
+            "stars": 413
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        }
+      ],
+      "title": "nitpick (🥉20 · ⭐ 410 · 💤) - Enforce the same settings on multiple projects. MIT"
     },
     {
       "description": null,
@@ -289,31 +324,11 @@
             "owner": "PyCQA",
             "repo": "flake8-import-order",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "flake8-import-order (🥉21 · ⭐ 280) - Flake8 plugin that checks import order against.. ❗️LGPL-3.0"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "andreoliwa/nitpick",
-          "description": "(👨‍💻 18 · 🔀 24 · 📦 1.4K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 126496135,
-            "language": "Python",
-            "last_commit": "2026-08-24T20:09:10Z",
-            "owner": "andreoliwa",
-            "repo": "nitpick",
-            "stars": 413
-          }
-        }
-      ],
-      "title": "nitpick (🥉20 · ⭐ 410 · 💤) - Enforce the same settings on multiple projects. MIT"
+      "title": "flake8-import-order (🥉19 · ⭐ 280) - Flake8 plugin that checks import order against.. ❗️LGPL-3.0"
     },
     {
       "description": null,
@@ -331,7 +346,8 @@
             "owner": "MartinThoma",
             "repo": "flake8-simplify",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "flake8-simplify (🥉19 · ⭐ 200 · 💤) - A flake8 plugin that helps you to simplify code. MIT"
@@ -341,29 +357,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "hermes-labs-ai/lintlang",
-          "description": "(👨‍💻 2 · 🔀 1):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1168980518,
-            "language": "Python",
-            "last_commit": "2026-08-24T20:57:17Z",
-            "owner": "hermes-labs-ai",
-            "repo": "lintlang",
-            "stars": 62
-          }
-        }
-      ],
-      "title": "lintlang (🥉11 · ⭐ 59 · 🐣) - Static analysis for AI agent configs, tool descriptions, and.. Apache-2"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "coala",
-          "description": "(🥉20 · ⭐ 3.6K · 💀) - coala provides a unified command-line interface for linting and.. ❗️AGPL-3.0",
+          "description": "(🥉22 · ⭐ 3.6K · 💀) - coala provides a unified command-line interface for linting and.. ❗️AGPL-3.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -373,7 +368,8 @@
             "owner": "coala",
             "repo": "coala",
             "stars": 3594
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -388,7 +384,8 @@
             "owner": "PyCQA",
             "repo": "pyflakes",
             "stars": 1456
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -403,12 +400,13 @@
             "owner": "PyCQA",
             "repo": "pydocstyle",
             "stars": 1116
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "pylama",
-          "description": "(🥉23 · ⭐ 1K · 💀) - Code audit tool for python. MIT",
+          "description": "(🥈23 · ⭐ 1K · 💀) - Code audit tool for python. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -418,7 +416,8 @@
             "owner": "klen",
             "repo": "pylama",
             "stars": 1048
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -433,12 +432,13 @@
             "owner": "Instagram",
             "repo": "Fixit",
             "stars": 713
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "pep8-naming",
-          "description": "(🥈25 · ⭐ 530 · 💀) - Naming Convention checker for Python. ❗️Saxpath",
+          "description": "(🥈23 · ⭐ 530 · 💀) - Naming Convention checker for Python. ❗️Saxpath",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -448,7 +448,8 @@
             "owner": "PyCQA",
             "repo": "pep8-naming",
             "stars": 530
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -463,7 +464,8 @@
             "owner": "terrencepreilly",
             "repo": "darglint",
             "stars": 483
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -478,12 +480,13 @@
             "owner": "bndr",
             "repo": "pycycle",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "flake8-eradicate",
-          "description": "(🥉23 · ⭐ 310 · 💀) - Flake8 plugin to find commented out or dead code. MIT",
+          "description": "(🥈23 · ⭐ 310 · 💀) - Flake8 plugin to find commented out or dead code. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -493,12 +496,13 @@
             "owner": "wemake-services",
             "repo": "flake8-eradicate",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "bellybutton",
-          "description": "(🥉16 · ⭐ 270 · 💀) - Custom Python linting through AST expressions. MIT",
+          "description": "(🥉13 · ⭐ 270 · 💀) - Custom Python linting through AST expressions. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -508,7 +512,8 @@
             "owner": "hchasestevens",
             "repo": "bellybutton",
             "stars": 279
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -523,7 +528,8 @@
             "owner": "life4",
             "repo": "flakehell",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -538,12 +544,13 @@
             "owner": "justinabrahms",
             "repo": "imhotep",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "data-science-types",
-          "description": "(🥉19 · ⭐ 200 · 💀) - Type stubs for Python machine learning libraries. Apache-2",
+          "description": "(🥉21 · ⭐ 200 · 💀) - Type stubs for Python machine learning libraries. Apache-2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -553,7 +560,8 @@
             "owner": "wearepal",
             "repo": "data-science-types",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -568,7 +576,8 @@
             "owner": "lyft",
             "repo": "linty_fresh",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -583,7 +592,8 @@
             "owner": "zheller",
             "repo": "flake8-quotes",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -598,7 +608,8 @@
             "owner": "deppen8",
             "repo": "pandas-vet",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -613,12 +624,13 @@
             "owner": "tylerwince",
             "repo": "flake8-bandit",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "flake8-mypy",
-          "description": "(🥉18 · ⭐ 100 · 💀) - A plugin for flake8 integrating Mypy. MIT",
+          "description": "(🥉14 · ⭐ 100 · 💀) - A plugin for flake8 integrating Mypy. MIT",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -628,7 +640,8 @@
             "owner": "ambv",
             "repo": "flake8-mypy",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -643,7 +656,24 @@
             "owner": "jschaf",
             "repo": "pylint-flask",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lintlang",
+          "description": "(🥉9 · ⭐ 62 · 🐣) - Static analysis for AI agent configs, tool descriptions, and.. Apache-2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1168980518,
+            "language": "Python",
+            "last_commit": "2026-08-24T20:57:17Z",
+            "owner": "hermes-labs-ai",
+            "repo": "lintlang",
+            "stars": 63
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -658,10 +688,11 @@
             "owner": "cemsbr",
             "repo": "yala",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "Show 20 hidden projects..."
+      "title": "Show 21 hidden projects..."
     },
     {
       "description": null,
@@ -669,17 +700,18 @@
         {
           "node_type": "item",
           "title": "microsoft/pyright",
-          "description": "(👨‍💻 160 · 🔀 1.8K · 📦 1.7K):",
+          "description": "(👨‍💻 160 · 🔀 1.8K · 📦 1.8K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 175129788,
             "language": "Python",
-            "last_commit": "2026-08-27T19:02:37Z",
+            "last_commit": "2026-08-28T18:53:41Z",
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15601
-          }
+            "stars": 15604
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pyright (🥈31 · ⭐ 16K) - Static Type Checker for Python. MIT"
@@ -699,8 +731,9 @@
             "last_commit": "2026-06-26T16:04:19Z",
             "owner": "facebook",
             "repo": "pyre-check",
-            "stars": 7171
-          }
+            "stars": 7172
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pyre-check (🥉24 · ⭐ 7.2K) - Performant type-checking for python. MIT"
@@ -717,11 +750,12 @@
             "archived": false,
             "id": 7053637,
             "language": "Python",
-            "last_commit": "2026-08-27T06:38:24Z",
+            "last_commit": "2026-08-28T01:13:53Z",
             "owner": "python",
             "repo": "mypy",
-            "stars": 20614
-          }
+            "stars": 20615
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -736,12 +770,13 @@
             "owner": "google",
             "repo": "pytype",
             "stars": 5032
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "typeguard",
-          "description": "(🥉28 · ⭐ 1.8K) - Run-time type checker for Python. ❗Unlicensed",
+          "description": "(🥉24 · ⭐ 1.8K · 📉) - Run-time type checker for Python. ❗Unlicensed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -751,7 +786,8 @@
             "owner": "agronholm",
             "repo": "typeguard",
             "stars": 1781
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 3 hidden projects..."
@@ -771,8 +807,9 @@
             "last_commit": "2026-08-20T13:01:16Z",
             "owner": "psf",
             "repo": "black",
-            "stars": 41819
-          }
+            "stars": 41820
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "black (🥇37 · ⭐ 42K) - The uncompromising Python code formatter. MIT"
@@ -789,14 +826,15 @@
             "archived": false,
             "id": 12550138,
             "language": "Python",
-            "last_commit": "2026-08-27T19:55:57Z",
+            "last_commit": "2026-08-27T20:30:57Z",
             "owner": "PyCQA",
             "repo": "isort",
             "stars": 6948
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "isort (🥈33 · ⭐ 6.9K · 📉) - A Python utility / library to sort imports. MIT"
+      "title": "isort (🥈34 · ⭐ 6.9K) - A Python utility / library to sort imports. MIT"
     },
     {
       "description": null,
@@ -810,11 +848,12 @@
             "archived": false,
             "id": 32476524,
             "language": "Python",
-            "last_commit": "2026-08-21T16:05:20Z",
+            "last_commit": "2026-08-28T19:58:01Z",
             "owner": "google",
             "repo": "yapf",
-            "stars": 13981
-          }
+            "stars": 13982
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "yapf (🥈31 · ⭐ 14K · 💤) - A formatter for Python files. Apache-2"
@@ -825,7 +864,7 @@
         {
           "node_type": "item",
           "title": "autopep8",
-          "description": "(🥉29 · ⭐ 4.6K · 💀) - A tool that automatically formats Python code to conform to the PEP.. MIT",
+          "description": "(🥉26 · ⭐ 4.6K · 💀) - A tool that automatically formats Python code to conform to the PEP.. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -835,12 +874,13 @@
             "owner": "hhatto",
             "repo": "autopep8",
             "stars": 4660
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "docformatter",
-          "description": "(🥉22 · ⭐ 590) - Formats docstrings to follow PEP 257. ❗Unlicensed",
+          "description": "(🥉19 · ⭐ 590) - Formats docstrings to follow PEP 257. ❗Unlicensed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -850,7 +890,8 @@
             "owner": "PyCQA",
             "repo": "docformatter",
             "stars": 598
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -865,12 +906,13 @@
             "owner": "lyz-code",
             "repo": "autoimport",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "pyformat",
-          "description": "(🥉16 · ⭐ 94 · 💀) - Formats Python code to follow a consistent style. ❗️Saxpath",
+          "description": "(🥉13 · ⭐ 94 · 💀) - Formats Python code to follow a consistent style. ❗️Saxpath",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -880,7 +922,8 @@
             "owner": "myint",
             "repo": "pyformat",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 4 hidden projects..."
@@ -901,7 +944,8 @@
             "owner": "davidhalter",
             "repo": "jedi",
             "stars": 6173
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "jedi (🥇34 · ⭐ 6.1K) - Awesome autocompletion, static analysis and refactoring library for python. MIT"
@@ -912,7 +956,7 @@
         {
           "node_type": "item",
           "title": "jendrikseipp/vulture",
-          "description": "(👨‍💻 56 · 🔀 200 · 📦 7.7K):",
+          "description": "(👨‍💻 56 · 🔀 200 · 📦 7.8K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -922,7 +966,8 @@
             "owner": "jendrikseipp",
             "repo": "vulture",
             "stars": 4780
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "vulture (🥇27 · ⭐ 4.8K) - Find dead Python code. MIT"
@@ -943,7 +988,8 @@
             "owner": "python-rope",
             "repo": "rope",
             "stars": 2234
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "rope (🥇27 · ⭐ 2.2K · 💤) - a python refactoring library. ❗️LGPL-3.0"
@@ -963,8 +1009,9 @@
             "last_commit": "2026-08-25T19:30:18Z",
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4113
-          }
+            "stars": 4112
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pyupgrade (🥈24 · ⭐ 4K · 💤) - A tool (and pre-commit hook) to automatically upgrade syntax for.. MIT"
@@ -984,8 +1031,9 @@
             "last_commit": "2026-08-17T23:35:51Z",
             "owner": "asottile",
             "repo": "add-trailing-comma",
-            "stars": 372
-          }
+            "stars": 373
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "add-trailing-comma (🥉18 · ⭐ 370 · 💤) - A tool (and pre-commit hook) to automatically add.. MIT"
@@ -1006,7 +1054,8 @@
             "owner": "elmotec",
             "repo": "massedit",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "massedit (🥉15 · ⭐ 120 · 💤) - Programmatically edit text files with Python. Useful for source to.. MIT"
@@ -1027,7 +1076,8 @@
             "owner": "Instagram",
             "repo": "MonkeyType",
             "stars": 4997
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1042,7 +1092,8 @@
             "owner": "facebookincubator",
             "repo": "Bowler",
             "stars": 1610
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1057,7 +1108,8 @@
             "owner": "dropbox",
             "repo": "pyannotate",
             "stars": 1442
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1072,7 +1124,8 @@
             "owner": "PyCQA",
             "repo": "redbaron",
             "stars": 725
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1086,8 +1139,9 @@
             "last_commit": "2021-12-09T03:34:37Z",
             "owner": "PyCQA",
             "repo": "baron",
-            "stars": 304
-          }
+            "stars": 305
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1102,7 +1156,8 @@
             "owner": "PyCQA",
             "repo": "eradicate",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1172,8 @@
             "owner": "ilevkivskyi",
             "repo": "com2ann",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1132,7 +1188,8 @@
             "owner": "ambv",
             "repo": "retype",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1204,8 @@
             "owner": "spulec",
             "repo": "pep8ify",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1220,8 @@
             "owner": "myint",
             "repo": "unify",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 10 hidden projects..."
@@ -1182,11 +1241,12 @@
             "last_commit": "2026-08-24T11:13:47Z",
             "owner": "PyCQA",
             "repo": "bandit",
-            "stars": 8242
-          }
+            "stars": 8245
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "bandit (🥇30 · ⭐ 8.1K · 📉) - Bandit is a tool designed to find common security issues in.. Apache-2"
+      "title": "bandit (🥇30 · ⭐ 8.1K) - Bandit is a tool designed to find common security issues in Python.. Apache-2"
     },
     {
       "description": null,
@@ -1200,11 +1260,12 @@
             "archived": false,
             "id": 71359600,
             "language": "Python",
-            "last_commit": "2026-08-20T18:27:57Z",
+            "last_commit": "2026-08-28T20:50:17Z",
             "owner": "pyupio",
             "repo": "safety",
             "stars": 1995
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "safety (🥈29 · ⭐ 2K) - Safety checks Python dependencies for known security vulnerabilities and.. MIT"
@@ -1221,14 +1282,15 @@
             "archived": false,
             "id": 4793392,
             "language": "Python",
-            "last_commit": "2026-08-26T11:46:12Z",
+            "last_commit": "2026-08-28T07:44:26Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38282
-          }
+            "stars": 38292
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "sqlmap (🥉25 · ⭐ 38K) - Automatic SQL injection and database takeover tool. ❗️GPL-3.0"
+      "title": "sqlmap (🥈25 · ⭐ 38K) - Automatic SQL injection and database takeover tool. ❗️GPL-3.0"
     },
     {
       "description": null,
@@ -1246,7 +1308,8 @@
             "owner": "dlint-py",
             "repo": "dlint",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "dlint (🥉18 · ⭐ 180 · 💤) - Dlint is a tool for encouraging best coding practices and helping.. BSD-3"
@@ -1257,17 +1320,18 @@
         {
           "node_type": "item",
           "title": "pyarmor",
-          "description": "(🥈26 · ⭐ 5.1K) - A tool used to obfuscate python scripts, bind obfuscated scripts.. ❗️SGI-B-2.0",
+          "description": "(🥈25 · ⭐ 5.2K) - A tool used to obfuscate python scripts, bind obfuscated scripts.. ❗️SGI-B-2.0",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 101461719,
             "language": "Python",
-            "last_commit": "2026-08-27T05:35:48Z",
+            "last_commit": "2026-08-27T23:56:22Z",
             "owner": "dashingsoft",
             "repo": "pyarmor",
-            "stars": 5180
-          }
+            "stars": 5184
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1346,8 @@
             "owner": "Yelp",
             "repo": "detect-secrets",
             "stars": 4629
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1362,8 @@
             "owner": "python-security",
             "repo": "pyt",
             "stars": 2201
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1312,7 +1378,8 @@
             "owner": "prospector-dev",
             "repo": "dodgy",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 4 hidden projects..."
@@ -1329,11 +1396,12 @@
             "archived": false,
             "id": 1446474,
             "language": "Python",
-            "last_commit": "2026-08-25T05:37:56Z",
+            "last_commit": "2026-08-28T18:58:26Z",
             "owner": "pypa",
             "repo": "virtualenv",
-            "stars": 5043
-          }
+            "stars": 5042
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "virtualenv (🥇36 · ⭐ 5K) - Virtual Python Environment builder. MIT"
@@ -1353,8 +1421,9 @@
             "last_commit": "2026-08-24T22:09:52Z",
             "owner": "pypa",
             "repo": "pipenv",
-            "stars": 25035
-          }
+            "stars": 25034
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pipenv (🥈35 · ⭐ 25K) - Python Development Workflow for Humans. MIT"
@@ -1375,7 +1444,8 @@
             "owner": "ekalinin",
             "repo": "nodeenv",
             "stars": 1790
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "nodeenv (🥈31 · ⭐ 1.8K · 💤) - Virtual environment for Node.js & integrator with virtualenv. BSD-3"
@@ -1392,11 +1462,12 @@
             "archived": false,
             "id": 5625464,
             "language": "Shell",
-            "last_commit": "2026-08-26T13:05:19Z",
+            "last_commit": "2026-08-28T12:36:28Z",
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45050
-          }
+            "stars": 45053
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1410,8 +1481,9 @@
             "last_commit": "2026-04-29T05:24:23Z",
             "owner": "pyenv",
             "repo": "pyenv-virtualenv",
-            "stars": 6731
-          }
+            "stars": 6730
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1498,8 @@
             "owner": "pyenv",
             "repo": "pyenv-installer",
             "stars": 4131
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1514,8 @@
             "owner": "spotify",
             "repo": "dh-virtualenv",
             "stars": 1629
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1456,12 +1530,13 @@
             "owner": "sashahart",
             "repo": "vex",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "freshenv",
-          "description": "(🥉11 · ⭐ 150 · 💀) - Provision, share, manage local and cloud developer environments. MPL-2.0",
+          "description": "(🥉12 · ⭐ 150 · 💀) - Provision, share, manage local and cloud developer environments. MPL-2.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1471,12 +1546,13 @@
             "owner": "raiyanyahya",
             "repo": "freshenv",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "pipenv-pipes",
-          "description": "(🥉10 · ⭐ 130 · 💀) - A PipEnv Environment Switcher. MIT",
+          "description": "(🥉11 · ⭐ 130 · 💀) - A PipEnv Environment Switcher. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1486,7 +1562,8 @@
             "owner": "gtalarico",
             "repo": "pipenv-pipes",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 7 hidden projects..."
@@ -1497,7 +1574,7 @@
         {
           "node_type": "item",
           "title": "pypa/pip",
-          "description": "(👨‍💻 910 · 🔀 3.3K · 📦 260K):",
+          "description": "(👨‍💻 910 · 🔀 3.4K · 📦 260K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1507,31 +1584,11 @@
             "owner": "pypa",
             "repo": "pip",
             "stars": 10271
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pip (🥇36 · ⭐ 10K) - The Python package installer. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "python-poetry/poetry",
-          "description": "(👨‍💻 670 · 🔀 2.5K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 123303402,
-            "language": "Python",
-            "last_commit": "2026-08-24T21:33:54Z",
-            "owner": "python-poetry",
-            "repo": "poetry",
-            "stars": 34298
-          }
-        }
-      ],
-      "title": "poetry (🥇32 · ⭐ 34K) - Python packaging and dependency management made easy. MIT"
     },
     {
       "description": null,
@@ -1548,11 +1605,12 @@
             "last_commit": "2026-08-25T05:37:18Z",
             "owner": "pypa",
             "repo": "pipx",
-            "stars": 12948
-          }
+            "stars": 12947
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "pipx (🥈31 · ⭐ 13K) - Install and Run Python Applications in Isolated Environments. MIT"
+      "title": "pipx (🥇31 · ⭐ 13K) - Install and Run Python Applications in Isolated Environments. MIT"
     },
     {
       "description": null,
@@ -1570,10 +1628,11 @@
             "owner": "jazzband",
             "repo": "pip-tools",
             "stars": 8008
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "pip-tools (🥈31 · ⭐ 8K) - A set of tools to keep your pinned Python dependencies fresh. BSD-3"
+      "title": "pip-tools (🥇31 · ⭐ 8K) - A set of tools to keep your pinned Python dependencies fresh. BSD-3"
     },
     {
       "description": null,
@@ -1587,11 +1646,12 @@
             "archived": false,
             "id": 230369286,
             "language": "Python",
-            "last_commit": "2026-08-27T09:08:29Z",
+            "last_commit": "2026-08-28T15:20:12Z",
             "owner": "pdm-project",
             "repo": "pdm",
             "stars": 8671
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "PDM (🥈30 · ⭐ 8.7K) - A modern Python package and dependency manager supporting the latest PEP.. MIT"
@@ -1608,14 +1668,37 @@
             "archived": false,
             "id": 6235174,
             "language": "Python",
-            "last_commit": "2026-08-27T19:37:11Z",
+            "last_commit": "2026-08-28T14:00:37Z",
             "owner": "conda",
             "repo": "conda",
-            "stars": 7495
-          }
+            "stars": 7498
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "conda (🥈30 · ⭐ 7.5K) - A system-level, binary package and environment manager running on all.. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "python-poetry/poetry",
+          "description": "(👨‍💻 670 · 🔀 2.5K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123303402,
+            "language": "Python",
+            "last_commit": "2026-08-24T21:33:54Z",
+            "owner": "python-poetry",
+            "repo": "poetry",
+            "stars": 34298
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        }
+      ],
+      "title": "poetry (🥉29 · ⭐ 34K · 📉) - Python packaging and dependency management made easy. MIT"
     },
     {
       "description": null,
@@ -1633,10 +1716,11 @@
             "owner": "bndr",
             "repo": "pipreqs",
             "stars": 7461
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "pipreqs (🥉28 · ⭐ 7.4K) - pipreqs - Generate pip requirements.txt file based on imports of any.. Apache-2"
+      "title": "pipreqs (🥉25 · ⭐ 7.4K) - pipreqs - Generate pip requirements.txt file based on imports of any.. Apache-2"
     },
     {
       "description": null,
@@ -1654,7 +1738,8 @@
             "owner": "mamba-org",
             "repo": "mamba",
             "stars": 8082
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "mamba (🥉20 · ⭐ 8.1K) - The Fast Cross-Platform Package Manager. BSD-3"
@@ -1675,10 +1760,11 @@
             "owner": "David-OConnor",
             "repo": "pyflow",
             "stars": 1339
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "pyflow (🥉18 · ⭐ 1.3K · 💤) - An installation and dependency system for Python. MIT"
+      "title": "pyflow (🥉16 · ⭐ 1.3K · 💤) - An installation and dependency system for Python. MIT"
     },
     {
       "description": null,
@@ -1686,7 +1772,7 @@
         {
           "node_type": "item",
           "title": "dephell",
-          "description": "(🥉21 · ⭐ 1.8K · 💀) - Python project management. Manage packages: convert between formats,.. MIT",
+          "description": "(🥉18 · ⭐ 1.8K · 💀) - Python project management. Manage packages: convert between formats,.. MIT",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1696,7 +1782,8 @@
             "owner": "dephell",
             "repo": "dephell",
             "stars": 1786
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1711,7 +1798,8 @@
             "owner": "jaraco",
             "repo": "pip-run",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 2 hidden projects..."
@@ -1732,7 +1820,8 @@
             "owner": "PyCQA",
             "repo": "mccabe",
             "stars": 683
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "mccabe (🥇28 · ⭐ 680 · 💀) - McCabe complexity checker for Python. ❗️Saxpath"
@@ -1753,10 +1842,11 @@
             "owner": "tonybaloney",
             "repo": "wily",
             "stars": 1324
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "wily (🥉22 · ⭐ 1.3K) - A Python application for tracking, reporting on timing and complexity in.. Apache-2"
+      "title": "wily (🥈22 · ⭐ 1.3K) - A Python application for tracking, reporting on timing and complexity in.. Apache-2"
     },
     {
       "description": null,
@@ -1764,7 +1854,7 @@
         {
           "node_type": "item",
           "title": "radon",
-          "description": "(🥈26 · ⭐ 1.9K · 💀) - Various code metrics for Python code. MIT",
+          "description": "(🥈22 · ⭐ 1.9K · 💀) - Various code metrics for Python code. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1773,8 +1863,9 @@
             "last_commit": "2024-10-20T09:52:54Z",
             "owner": "rubik",
             "repo": "radon",
-            "stars": 2010
-          }
+            "stars": 2011
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1788,8 +1879,9 @@
             "last_commit": "2024-10-21T10:27:41Z",
             "owner": "rubik",
             "repo": "xenon",
-            "stars": 283
-          }
+            "stars": 282
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -1804,7 +1896,8 @@
             "owner": "mschwager",
             "repo": "cohesion",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 3 hidden projects..."
@@ -1824,8 +1917,9 @@
             "last_commit": "2026-08-17T21:24:27Z",
             "owner": "tqdm",
             "repo": "tqdm",
-            "stars": 31296
-          }
+            "stars": 31300
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "tqdm (🥇37 · ⭐ 31K) - A Fast, Extensible Progress Bar for Python and CLI. MPL-2.0"
@@ -1845,8 +1939,9 @@
             "last_commit": "2026-06-23T03:10:19Z",
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57260
-          }
+            "stars": 57268
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "rich (🥇36 · ⭐ 56K) - Rich is a Python library for rich text and beautiful formatting in the terminal. MIT"
@@ -1857,7 +1952,7 @@
         {
           "node_type": "item",
           "title": "Delgan/loguru",
-          "description": "(👨‍💻 77 · 🔀 800 · 📦 160K):",
+          "description": "(👨‍💻 79 · 🔀 800 · 📦 160K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1866,8 +1961,9 @@
             "last_commit": "2026-08-23T18:09:18Z",
             "owner": "Delgan",
             "repo": "loguru",
-            "stars": 24087
-          }
+            "stars": 24088
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "loguru (🥇31 · ⭐ 24K) - Python logging made (stupidly) simple. MIT"
@@ -1887,8 +1983,9 @@
             "last_commit": "2026-08-06T13:02:34Z",
             "owner": "hynek",
             "repo": "structlog",
-            "stars": 4930
-          }
+            "stars": 4932
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "structlog (🥇31 · ⭐ 4.8K) - Simple, powerful, and fast logging for Python. Apache-2"
@@ -1899,17 +1996,18 @@
         {
           "node_type": "item",
           "title": "getsentry/sentry-python",
-          "description": "(👨‍💻 350 · 🔀 650):",
+          "description": "(👨‍💻 350 · 🔀 660):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 137814779,
             "language": "Python",
-            "last_commit": "2026-08-27T18:14:19Z",
+            "last_commit": "2026-08-28T20:29:41Z",
             "owner": "getsentry",
             "repo": "sentry-python",
             "stars": 2201
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "sentry-sdk (🥇31 · ⭐ 2.2K) - The official Python SDK for Sentry.io. MIT"
@@ -1929,8 +2027,9 @@
             "last_commit": "2026-03-11T08:45:56Z",
             "owner": "astanin",
             "repo": "python-tabulate",
-            "stars": 2580
-          }
+            "stars": 2581
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "tabulate (🥈30 · ⭐ 2.6K) - Pretty-print tabular data in Python, a library and a command-line.. MIT"
@@ -1951,7 +2050,8 @@
             "owner": "madzak",
             "repo": "python-json-logger",
             "stars": 1759
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "python-json-logger (🥈29 · ⭐ 1.8K) - Json Formatter for the standard python logger. BSD-2"
@@ -1972,7 +2072,8 @@
             "owner": "borntyping",
             "repo": "python-colorlog",
             "stars": 964
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "colorlog (🥈29 · ⭐ 970) - A colored formatter for the python logging module. MIT"
@@ -1983,7 +2084,7 @@
         {
           "node_type": "item",
           "title": "xolox/python-coloredlogs",
-          "description": "(👨‍💻 17 · 🔀 45 · 📦 87K):",
+          "description": "(👨‍💻 17 · 🔀 45 · 📦 88K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1993,7 +2094,8 @@
             "owner": "xolox",
             "repo": "python-coloredlogs",
             "stars": 560
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "python-coloredlogs (🥉27 · ⭐ 550 · 💤) - Colored terminal output for Pythons logging module. MIT"
@@ -2013,8 +2115,9 @@
             "last_commit": "2026-05-24T19:29:20Z",
             "owner": "rsalmei",
             "repo": "alive-progress",
-            "stars": 6295
-          }
+            "stars": 6296
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "alive-progress (🥉26 · ⭐ 5.9K) - A new kind of Progress Bar, with real-time throughput, ETA, and.. MIT"
@@ -2035,7 +2138,8 @@
             "owner": "wolph",
             "repo": "python-progressbar",
             "stars": 879
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "progressbar2 (🥉26 · ⭐ 880) - Progressbar 2 - A progress bar for Python 2 and Python 3 - pip.. BSD-3"
@@ -2056,7 +2160,8 @@
             "owner": "cknd",
             "repo": "stackprinter",
             "stars": 1299
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "stackprinter (🥉23 · ⭐ 1.3K) - Debugging-friendly exceptions for Python. MIT"
@@ -2077,7 +2182,8 @@
             "owner": "Qix-",
             "repo": "better-exceptions",
             "stars": 4720
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "better-exceptions (🥉22 · ⭐ 4.7K · 💤) - Pretty and useful exceptions in Python, automatically. MIT"
@@ -2098,7 +2204,8 @@
             "owner": "shobrook",
             "repo": "rebound",
             "stars": 4114
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "rebound (🥉21 · ⭐ 4.1K) - Command-line tool that instantly fetches Stack Overflow results.. ❗️GPL-3.0"
@@ -2119,7 +2226,8 @@
             "owner": "onelivesleft",
             "repo": "PrettyErrors",
             "stars": 2873
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2134,7 +2242,8 @@
             "owner": "liiight",
             "repo": "notifiers",
             "stars": 2737
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2149,12 +2258,13 @@
             "owner": "prettytable",
             "repo": "prettytable",
             "stars": 1669
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "logbook",
-          "description": "(🥉25 · ⭐ 1.5K) - A cool logging replacement for Python. ❗Unlicensed",
+          "description": "(🥉27 · ⭐ 1.5K · 📈) - A cool logging replacement for Python. ❗Unlicensed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2164,7 +2274,8 @@
             "owner": "getlogbook",
             "repo": "logbook",
             "stars": 1505
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2179,7 +2290,8 @@
             "owner": "samuelcolvin",
             "repo": "python-devtools",
             "stars": 1076
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2194,12 +2306,13 @@
             "owner": "explosion",
             "repo": "wasabi",
             "stars": 470
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "tbvaccine",
-          "description": "(🥉14 · ⭐ 300 · 💀) - A small utility to pretty-print Python tracebacks. MIT",
+          "description": "(🥉16 · ⭐ 300 · 💀) - A small utility to pretty-print Python tracebacks. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2209,7 +2322,8 @@
             "owner": "skorokithakis",
             "repo": "tbvaccine",
             "stars": 378
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 7 hidden projects..."
@@ -2229,8 +2343,9 @@
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6076
-          }
+            "stars": 6077
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "xxh (🥉16 · ⭐ 5.8K · 💤) - Bring your favorite shell wherever you go through the ssh. Xonsh shell,.. BSD-2"
@@ -2250,8 +2365,9 @@
             "last_commit": "2026-08-25T08:24:46Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9622
-          }
+            "stars": 9624
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 1 hidden projects..."
@@ -2262,7 +2378,7 @@
         {
           "node_type": "item",
           "title": "squidfunk/mkdocs-material",
-          "description": "(👨‍💻 330 · 🔀 4.1K · 📦 92K):",
+          "description": "(👨‍💻 330 · 🔀 4.1K · 📦 93K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2271,8 +2387,9 @@
             "last_commit": "2026-08-27T13:02:04Z",
             "owner": "squidfunk",
             "repo": "mkdocs-material",
-            "stars": 27339
-          }
+            "stars": 27343
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "mkdocs-material (🥇34 · ⭐ 27K) - Documentation that simply works. MIT"
@@ -2292,8 +2409,9 @@
             "last_commit": "2025-10-20T13:17:06Z",
             "owner": "mkdocs",
             "repo": "mkdocs",
-            "stars": 22382
-          }
+            "stars": 22386
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "mkdocs (🥇32 · ⭐ 22K · 💤) - Project documentation with Markdown. BSD-2"
@@ -2314,7 +2432,8 @@
             "owner": "readthedocs",
             "repo": "sphinx_rtd_theme",
             "stars": 5076
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "sphinx_rtd_theme (🥈30 · ⭐ 5K) - Sphinx theme from Read the Docs. MIT"
@@ -2334,8 +2453,9 @@
             "last_commit": "2026-07-11T19:37:56Z",
             "owner": "mkdocstrings",
             "repo": "mkdocstrings",
-            "stars": 2086
-          }
+            "stars": 2088
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "mkdocstrings (🥈29 · ⭐ 2.1K) - Automatic documentation from sources, for MkDocs. ISC"
@@ -2346,7 +2466,7 @@
         {
           "node_type": "item",
           "title": "mkdocstrings/griffe",
-          "description": "(👨‍💻 50 · 🔀 71 · 📦 18K):",
+          "description": "(👨‍💻 51 · 🔀 71 · 📦 18K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2356,7 +2476,8 @@
             "owner": "mkdocstrings",
             "repo": "griffe",
             "stars": 684
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Griffe (🥈29 · ⭐ 680) - Signatures for entire Python programs. Extract the structure, the frame,.. ISC"
@@ -2377,7 +2498,8 @@
             "owner": "tox-dev",
             "repo": "sphinx-autodoc-typehints",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "sphinx-autodoc-typehints (🥈28 · ⭐ 590) - Type hints support for the Sphinx autodoc extension. MIT"
@@ -2398,7 +2520,8 @@
             "owner": "clayrisser",
             "repo": "sphinx-markdown-builder",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "sphinx-markdown-builder (🥉24 · ⭐ 160) - DISCONTINUED: sphinx builder that outputs markdown.. MIT"
@@ -2419,7 +2542,8 @@
             "owner": "pdoc3",
             "repo": "pdoc",
             "stars": 1182
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pdoc3 (🥉23 · ⭐ 1.2K · 💤) - Auto-generate API documentation for Python projects. ❗️AGPL-3.0"
@@ -2440,7 +2564,8 @@
             "owner": "econchick",
             "repo": "interrogate",
             "stars": 673
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "interrogate (🥉23 · ⭐ 660 · 💤) - Explain yourself! Interrogate a codebase for docstring coverage. MIT"
@@ -2461,7 +2586,8 @@
             "owner": "ml-tooling",
             "repo": "lazydocs",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "lazydocs (🥉19 · ⭐ 240 · 💤) - Generate markdown API documentation from Google-style Python.. MIT"
@@ -2482,7 +2608,8 @@
             "owner": "timvink",
             "repo": "mkdocs-print-site-plugin",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "mkdocs-print-site-plugin (🥉18 · ⭐ 180) - MkDocs Plugin that adds an additional page that.. MIT"
@@ -2502,8 +2629,9 @@
             "last_commit": "2026-08-23T22:51:57Z",
             "owner": "sphinx-doc",
             "repo": "sphinx",
-            "stars": 7991
-          }
+            "stars": 7994
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2518,7 +2646,8 @@
             "owner": "mitmproxy",
             "repo": "pdoc",
             "stars": 2511
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2533,7 +2662,8 @@
             "owner": "pycco-docs",
             "repo": "pycco",
             "stars": 875
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2548,7 +2678,8 @@
             "owner": "timothycrosley",
             "repo": "portray",
             "stars": 864
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2563,7 +2694,8 @@
             "owner": "lukasgeiter",
             "repo": "mkdocs-awesome-nav",
             "stars": 627
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2578,7 +2710,8 @@
             "owner": "ryan-roemer",
             "repo": "sphinx-bootstrap-theme",
             "stars": 586
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2593,7 +2726,8 @@
             "owner": "orzih",
             "repo": "mkdocs-with-pdf",
             "stars": 392
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2608,7 +2742,8 @@
             "owner": "numpy",
             "repo": "numpydoc",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2623,7 +2758,8 @@
             "owner": "zhaoterryy",
             "repo": "mkdocs-pdf-export-plugin",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2638,7 +2774,8 @@
             "owner": "bitprophet",
             "repo": "releases",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2653,7 +2790,8 @@
             "owner": "zhaoterryy",
             "repo": "mkdocs-git-revision-date-plugin",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2668,7 +2806,8 @@
             "owner": "mkdocstrings",
             "repo": "pytkdocs",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2683,7 +2822,8 @@
             "owner": "zayd62",
             "repo": "mkdocs-versioning",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 15 hidden projects..."
@@ -2694,7 +2834,7 @@
         {
           "node_type": "item",
           "title": "gruns/icecream",
-          "description": "(👨‍💻 39 · 🔀 220 · 📦 24):",
+          "description": "(👨‍💻 40 · 🔀 220 · 📦 24):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2703,8 +2843,9 @@
             "last_commit": "2026-08-21T05:42:05Z",
             "owner": "gruns",
             "repo": "icecream",
-            "stars": 10109
-          }
+            "stars": 10110
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "icecream (🥇27 · ⭐ 10K) - Never use print() to debug again. MIT"
@@ -2724,8 +2865,9 @@
             "last_commit": "2026-07-30T13:12:41Z",
             "owner": "eliben",
             "repo": "pyelftools",
-            "stars": 2275
-          }
+            "stars": 2276
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pyelftools (🥇27 · ⭐ 2.3K) - Parsing ELF and DWARF in Python. Unlicense"
@@ -2736,7 +2878,7 @@
         {
           "node_type": "item",
           "title": "alexmojaki/snoop",
-          "description": "(👨‍💻 23 · 🔀 43):",
+          "description": "(👨‍💻 22 · 🔀 43):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2746,10 +2888,11 @@
             "owner": "alexmojaki",
             "repo": "snoop",
             "stars": 1461
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "snoop (🥉23 · ⭐ 1.5K) - A powerful set of Python debugging tools, based on PySnooper. MIT"
+      "title": "snoop (🥈23 · ⭐ 1.5K) - A powerful set of Python debugging tools, based on PySnooper. MIT"
     },
     {
       "description": null,
@@ -2767,10 +2910,11 @@
             "owner": "pdbpp",
             "repo": "pdbpp",
             "stars": 1464
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "pdbpp (🥉23 · ⭐ 1.4K) - pdb++, a drop-in replacement for pdb (the Python debugger). BSD-3"
+      "title": "pdbpp (🥈23 · ⭐ 1.4K) - pdb++, a drop-in replacement for pdb (the Python debugger). BSD-3"
     },
     {
       "description": null,
@@ -2788,7 +2932,8 @@
             "owner": "ionelmc",
             "repo": "python-hunter",
             "stars": 873
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "python-hunter (🥉19 · ⭐ 870 · 💤) - Hunter is a flexible code tracing toolkit. BSD-2"
@@ -2809,7 +2954,8 @@
             "owner": "alexmojaki",
             "repo": "birdseye",
             "stars": 1719
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Birdseye (🥉16 · ⭐ 1.7K · 💤) - Graphical Python debugger which lets you easily view the values of.. MIT"
@@ -2829,8 +2975,9 @@
             "last_commit": "2026-06-08T19:45:15Z",
             "owner": "cool-RR",
             "repo": "PySnooper",
-            "stars": 16582
-          }
+            "stars": 16581
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2844,23 +2991,25 @@
             "last_commit": "2025-06-29T22:40:49Z",
             "owner": "cs01",
             "repo": "gdbgui",
-            "stars": 10350
-          }
+            "stars": 10349
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "pudb",
-          "description": "(🥈24 · ⭐ 3.2K · 💤) - Full-screen console debugger for Python. ❗Unlicensed",
+          "description": "(🥉22 · ⭐ 3.2K · 💤) - Full-screen console debugger for Python. ❗Unlicensed",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1745896,
             "language": "Python",
-            "last_commit": "2026-08-23T16:07:48Z",
+            "last_commit": "2026-08-28T20:53:15Z",
             "owner": "inducer",
             "repo": "pudb",
             "stars": 3248
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2875,7 +3024,8 @@
             "owner": "reloadware",
             "repo": "reloadium",
             "stars": 2988
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2890,7 +3040,8 @@
             "owner": "lmacken",
             "repo": "pyrasite",
             "stars": 2873
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2905,7 +3056,8 @@
             "owner": "gotcha",
             "repo": "ipdb",
             "stars": 1976
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -2920,7 +3072,8 @@
             "owner": "ionelmc",
             "repo": "python-manhole",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 7 hidden projects..."
@@ -2937,11 +3090,12 @@
             "archived": false,
             "id": 327002257,
             "language": null,
-            "last_commit": "2026-08-20T21:41:23Z",
+            "last_commit": "2026-08-28T07:07:01Z",
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
             "stars": 2753
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Testing Tools"
@@ -2961,8 +3115,9 @@
             "last_commit": "2026-08-27T19:55:51Z",
             "owner": "pytest-dev",
             "repo": "pytest",
-            "stars": 14449
-          }
+            "stars": 14455
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest (🥇39 · ⭐ 14K) - The pytest framework makes it easy to write small tests, yet scales to.. MIT"
@@ -2982,8 +3137,9 @@
             "last_commit": "2026-08-27T17:52:48Z",
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 14955
-          }
+            "stars": 14960
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "playwright-python (🥇33 · ⭐ 15K) - Python version of the Playwright testing and automation.. Apache-2"
@@ -3003,8 +3159,9 @@
             "last_commit": "2026-08-25T07:13:15Z",
             "owner": "HypothesisWorks",
             "repo": "hypothesis",
-            "stars": 8915
-          }
+            "stars": 8918
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "hypothesis (🥇33 · ⭐ 8.9K) - The property-based testing library for Python. MPL-2.0"
@@ -3021,11 +3178,12 @@
             "archived": false,
             "id": 68465360,
             "language": "Python",
-            "last_commit": "2026-08-27T15:18:41Z",
+            "last_commit": "2026-08-28T20:01:46Z",
             "owner": "tox-dev",
             "repo": "tox",
             "stars": 3925
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "tox (🥇33 · ⭐ 3.9K) - Command line driven CI frontend and development task automation tool. MIT"
@@ -3045,8 +3203,9 @@
             "last_commit": "2026-08-26T19:16:01Z",
             "owner": "pytest-dev",
             "repo": "pytest-asyncio",
-            "stars": 1658
-          }
+            "stars": 1659
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-asyncio (🥇33 · ⭐ 1.7K) - Asyncio support for pytest. Apache-2"
@@ -3063,11 +3222,12 @@
             "archived": false,
             "id": 21273155,
             "language": "Python",
-            "last_commit": "2026-08-26T14:47:37Z",
+            "last_commit": "2026-08-28T18:09:16Z",
             "owner": "robotframework",
             "repo": "robotframework",
-            "stars": 11847
-          }
+            "stars": 11849
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "robotframework (🥈32 · ⭐ 12K) - Generic automation framework for acceptance testing and RPA. Apache-2"
@@ -3087,8 +3247,9 @@
             "last_commit": "2026-04-24T21:33:08Z",
             "owner": "pytest-dev",
             "repo": "pytest-cov",
-            "stars": 2058
-          }
+            "stars": 2059
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-cov (🥈32 · ⭐ 2.1K) - Coverage plugin for pytest. MIT"
@@ -3099,7 +3260,7 @@
         {
           "node_type": "item",
           "title": "pytest-dev/pytest-mock",
-          "description": "(👨‍💻 85 · 🔀 170 · 📦 140K):",
+          "description": "(👨‍💻 86 · 🔀 170 · 📦 140K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3109,7 +3270,8 @@
             "owner": "pytest-dev",
             "repo": "pytest-mock",
             "stars": 2039
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-mock (🥈31 · ⭐ 2K) - Thin-wrapper around the mock package for easier use with pytest. MIT"
@@ -3130,7 +3292,8 @@
             "owner": "pytest-dev",
             "repo": "pytest-xdist",
             "stars": 1899
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-xdist (🥈31 · ⭐ 1.9K) - pytest plugin for distributed testing and loop-on-failures.. MIT"
@@ -3150,8 +3313,9 @@
             "last_commit": "2024-08-20T18:34:57Z",
             "owner": "asweigart",
             "repo": "pyautogui",
-            "stars": 12668
-          }
+            "stars": 12669
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pyautogui (🥈29 · ⭐ 10K) - A cross-platform GUI automation Python module for human beings. Used.. BSD-3"
@@ -3161,8 +3325,30 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ionelmc/pytest-benchmark",
+          "description": "(👨‍💻 56 · 🔀 140 · 📦 18K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25031755,
+            "language": "Python",
+            "last_commit": "2026-08-23T17:45:05Z",
+            "owner": "ionelmc",
+            "repo": "pytest-benchmark",
+            "stars": 1448
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        }
+      ],
+      "title": "pytest-benchmark (🥈29 · ⭐ 1.4K · 📈) - pytest fixture for benchmarking code. BSD-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "pytest-dev/pytest-bdd",
-          "description": "(👨‍💻 71 · 🔀 250 · 📦 5K):",
+          "description": "(👨‍💻 71 · 🔀 250 · 📦 5.1K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3171,8 +3357,9 @@
             "last_commit": "2026-08-24T21:29:53Z",
             "owner": "pytest-dev",
             "repo": "pytest-bdd",
-            "stars": 1461
-          }
+            "stars": 1462
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-bdd (🥈28 · ⭐ 1.5K) - BDD library for the pytest runner. MIT"
@@ -3193,10 +3380,11 @@
             "owner": "lk-geimfari",
             "repo": "mimesis",
             "stars": 4839
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "mimesis (🥈27 · ⭐ 4.8K · 📈) - Mimesis is a fast Python library for generating fake data in multiple.. MIT"
+      "title": "mimesis (🥈27 · ⭐ 4.8K) - Mimesis is a fast Python library for generating fake data in multiple.. MIT"
     },
     {
       "description": null,
@@ -3214,7 +3402,8 @@
             "owner": "spulec",
             "repo": "freezegun",
             "stars": 4525
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "freezegun (🥈27 · ⭐ 4.5K · 💤) - Let your Python tests travel through time. Apache-2"
@@ -3235,7 +3424,8 @@
             "owner": "Teemu",
             "repo": "pytest-sugar",
             "stars": 1532
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-sugar (🥈27 · ⭐ 1.5K · 💤) - a plugin for py.test that changes the default look and.. BSD-3"
@@ -3256,31 +3446,11 @@
             "owner": "pytest-dev",
             "repo": "pytest-html",
             "stars": 779
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-html (🥈27 · ⭐ 770) - Plugin for generating HTML reports for pytest results. MPL-2.0"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ionelmc/pytest-benchmark",
-          "description": "(👨‍💻 55 · 🔀 140):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 25031755,
-            "language": "Python",
-            "last_commit": "2026-08-23T17:45:05Z",
-            "owner": "ionelmc",
-            "repo": "pytest-benchmark",
-            "stars": 1448
-          }
-        }
-      ],
-      "title": "pytest-benchmark (🥉26 · ⭐ 1.4K) - pytest fixture for benchmarking code. BSD-2"
     },
     {
       "description": null,
@@ -3298,7 +3468,8 @@
             "owner": "airspeed-velocity",
             "repo": "asv",
             "stars": 1014
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "asv (🥉26 · ⭐ 1K) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting. BSD-3"
@@ -3319,7 +3490,8 @@
             "owner": "nose-devs",
             "repo": "nose2",
             "stars": 826
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "nose2 (🥉26 · ⭐ 820) - The successor to nose, based on unittest2. BSD-2"
@@ -3330,7 +3502,7 @@
         {
           "node_type": "item",
           "title": "pytest-dev/pytest-randomly",
-          "description": "(👨‍💻 20 · 🔀 34 · 📦 13K):",
+          "description": "(👨‍💻 20 · 🔀 37 · 📦 13K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3340,10 +3512,11 @@
             "owner": "pytest-dev",
             "repo": "pytest-randomly",
             "stars": 721
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "pytest-randomly (🥉26 · ⭐ 700) - Pytest plugin to randomly order tests and control random.seed. MIT"
+      "title": "pytest-randomly (🥉26 · ⭐ 720) - Pytest plugin to randomly order tests and control random.seed. MIT"
     },
     {
       "description": null,
@@ -3357,11 +3530,12 @@
             "archived": false,
             "id": 8059786,
             "language": "Python",
-            "last_commit": "2026-08-27T00:04:18Z",
+            "last_commit": "2026-08-28T17:37:15Z",
             "owner": "TheKevJames",
             "repo": "coveralls-python",
             "stars": 569
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "coveralls-python (🥉26 · ⭐ 570) - Show coverage stats online via coveralls.io. MIT"
@@ -3382,7 +3556,8 @@
             "owner": "pytest-dev",
             "repo": "pytest-testinfra",
             "stars": 2477
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-testinfra (🥉25 · ⭐ 2.4K · 💤) - Testinfra test your infrastructures. Apache-2"
@@ -3393,7 +3568,7 @@
         {
           "node_type": "item",
           "title": "tarpas/pytest-testmon",
-          "description": "(👨‍💻 29 · 🔀 78 · 📦 1.7K):",
+          "description": "(👨‍💻 29 · 🔀 78 · 📦 1.8K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3402,8 +3577,9 @@
             "last_commit": "2025-12-01T07:34:04Z",
             "owner": "tarpas",
             "repo": "pytest-testmon",
-            "stars": 1009
-          }
+            "stars": 1008
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-testmon (🥉24 · ⭐ 1K · 💤) - Selects tests affected by changed files. Executes the.. MIT"
@@ -3423,32 +3599,12 @@
             "last_commit": "2022-07-20T09:05:05Z",
             "owner": "joeyespo",
             "repo": "pytest-watch",
-            "stars": 764
-          }
+            "stars": 763
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-watch (🥉23 · ⭐ 730 · 💤) - Local continuous test runner with pytest and watchdog. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "avast/pytest-docker",
-          "description": "(👨‍💻 30 · 🔀 77 · 📦 2.7K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 84156108,
-            "language": "Python",
-            "last_commit": "2025-11-12T13:42:28Z",
-            "owner": "avast",
-            "repo": "pytest-docker",
-            "stars": 489
-          }
-        }
-      ],
-      "title": "pytest-docker (🥉23 · ⭐ 480 · 💤) - Docker-based integration tests. MIT"
     },
     {
       "description": null,
@@ -3466,7 +3622,8 @@
             "owner": "gabrielcnr",
             "repo": "pytest-datadir",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-datadir (🥉22 · ⭐ 280) - pytest plugin for manipulating test data directories and.. MIT"
@@ -3487,10 +3644,33 @@
             "owner": "CleanCut",
             "repo": "green",
             "stars": 805
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "green (🥉21 · ⭐ 790) - Green is a clean, colorful, fast python test runner. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "avast/pytest-docker",
+          "description": "(👨‍💻 30 · 🔀 77):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84156108,
+            "language": "Python",
+            "last_commit": "2025-11-12T13:42:28Z",
+            "owner": "avast",
+            "repo": "pytest-docker",
+            "stars": 489
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        }
+      ],
+      "title": "pytest-docker (🥉21 · ⭐ 480 · 💤) - Docker-based integration tests. MIT"
     },
     {
       "description": null,
@@ -3508,7 +3688,8 @@
             "owner": "Erotemic",
             "repo": "xdoctest",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "xdoctest (🥉21 · ⭐ 220) - A rewrite of Pythons builtin doctest module (with pytest plugin.. Apache-2"
@@ -3529,7 +3710,8 @@
             "owner": "man-group",
             "repo": "pytest-plugins",
             "stars": 598
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pytest-plugins (🥉19 · ⭐ 600 · 💤) - A grab-bag of nifty pytest plugins. MIT"
@@ -3550,7 +3732,8 @@
             "owner": "FactoryBoy",
             "repo": "factory_boy",
             "stars": 3805
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3565,7 +3748,8 @@
             "owner": "emirozer",
             "repo": "fake2db",
             "stars": 2347
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3580,7 +3764,8 @@
             "owner": "xiaocong",
             "repo": "uiautomator",
             "stars": 2095
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3595,7 +3780,8 @@
             "owner": "sixpack",
             "repo": "sixpack",
             "stars": 1754
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3610,7 +3796,8 @@
             "owner": "nose-devs",
             "repo": "nose",
             "stars": 1361
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3625,7 +3812,8 @@
             "owner": "hamcrest",
             "repo": "PyHamcrest",
             "stars": 804
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3640,7 +3828,8 @@
             "owner": "nestorsalceda",
             "repo": "mamba",
             "stars": 539
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3655,7 +3844,8 @@
             "owner": "datadriventests",
             "repo": "ddt",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3670,7 +3860,8 @@
             "owner": "TvoroG",
             "repo": "pytest-lazy-fixture",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3685,7 +3876,8 @@
             "owner": "realpython",
             "repo": "pytest-mypy",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3700,7 +3892,8 @@
             "owner": "pytest-dev",
             "repo": "pytest-play",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3715,7 +3908,8 @@
             "owner": "ActivisionGameScience",
             "repo": "assertpy",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 12 hidden projects..."
@@ -3736,7 +3930,8 @@
             "owner": "pyinstaller",
             "repo": "pyinstaller",
             "stars": 13081
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pyinstaller (🥇33 · ⭐ 13K) - Freeze (package) Python programs into stand-alone executables. ❗️GPL-2.0"
@@ -3747,7 +3942,7 @@
         {
           "node_type": "item",
           "title": "Nuitka/Nuitka",
-          "description": "(👨‍💻 210 · 🔀 780 · 📦 4K):",
+          "description": "(👨‍💻 210 · 🔀 790 · 📦 4K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3757,7 +3952,8 @@
             "owner": "Nuitka",
             "repo": "Nuitka",
             "stars": 15110
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Nuitka (🥈29 · ⭐ 15K) - Nuitka is a Python compiler written in Python. Its fully compatible.. ❗️AGPL-3.0"
@@ -3777,8 +3973,9 @@
             "last_commit": "2026-08-24T08:01:18Z",
             "owner": "beeware",
             "repo": "briefcase",
-            "stars": 3335
-          }
+            "stars": 3336
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "briefcase (🥈26 · ⭐ 3.3K) - Tools to support converting a Python project into a standalone.. BSD-3"
@@ -3795,11 +3992,12 @@
             "archived": false,
             "id": 79693503,
             "language": "Python",
-            "last_commit": "2026-08-27T19:47:23Z",
+            "last_commit": "2026-08-28T07:13:29Z",
             "owner": "marcelotduarte",
             "repo": "cx_Freeze",
             "stars": 1560
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "cx_Freeze (🥈22 · ⭐ 1.6K) - Creates standalone executables from Python scripts with the.. ❗Unlicensed"
@@ -3820,7 +4018,8 @@
             "owner": "py2exe",
             "repo": "py2exe",
             "stars": 990
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "py2exe (🥈22 · ⭐ 990) - Create standalone Windows programs from Python code. MIT"
@@ -3841,10 +4040,11 @@
             "owner": "ronaldoussoren",
             "repo": "py2app",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "py2app (🥈22 · ⭐ 420 · 📉) - py2app is a Python setuptools command which will allow you to make.. MIT"
+      "title": "py2app (🥈22 · ⭐ 420) - py2app is a Python setuptools command which will allow you to make.. MIT"
     },
     {
       "description": null,
@@ -3862,7 +4062,8 @@
             "owner": "linkedin",
             "repo": "shiv",
             "stars": 1946
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "shiv (🥉21 · ⭐ 1.9K · 💤) - shiv is a command line utility for building fully self contained Python.. BSD-2"
@@ -3879,11 +4080,12 @@
             "archived": false,
             "id": 51571636,
             "language": "Python",
-            "last_commit": "2026-08-26T17:39:32Z",
+            "last_commit": "2026-08-28T14:24:27Z",
             "owner": "conda",
             "repo": "constructor",
             "stars": 497
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "constructor (🥉19 · ⭐ 500) - tool for creating installers from conda packages. BSD-3"
@@ -3904,7 +4106,8 @@
             "owner": "indygreg",
             "repo": "PyOxidizer",
             "stars": 6150
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3919,7 +4122,8 @@
             "owner": "facebookincubator",
             "repo": "xar",
             "stars": 1572
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3934,12 +4138,13 @@
             "owner": "takluyver",
             "repo": "pynsist",
             "stars": 992
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "packaging",
-          "description": "(🥇32 · ⭐ 750 · 📈) - Core utilities for Python packages. ❗Unlicensed",
+          "description": "(🥇32 · ⭐ 750) - Core utilities for Python packages. ❗Unlicensed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3949,7 +4154,8 @@
             "owner": "pypa",
             "repo": "packaging",
             "stars": 745
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -3964,12 +4170,13 @@
             "owner": "google",
             "repo": "subpar",
             "stars": 570
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "pyship",
-          "description": "(🥉14 · ⭐ 45) - pyship - ship Python desktop apps to end users. MIT",
+          "description": "(🥉13 · ⭐ 45) - pyship - ship Python desktop apps to end users. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3979,7 +4186,8 @@
             "owner": "jamesabel",
             "repo": "pyship",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 6 hidden projects..."
@@ -4000,7 +4208,8 @@
             "owner": "pypa",
             "repo": "setuptools",
             "stars": 2854
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "setuptools (🥇37 · ⭐ 2.8K) - Official project repository for the Setuptools build system. MIT"
@@ -4021,7 +4230,8 @@
             "owner": "pypa",
             "repo": "wheel",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "wheel (🥇33 · ⭐ 570) - The official binary distribution format for Python. MIT"
@@ -4038,14 +4248,15 @@
             "archived": false,
             "id": 12085555,
             "language": "Python",
-            "last_commit": "2026-08-20T19:57:20Z",
+            "last_commit": "2026-08-28T19:56:09Z",
             "owner": "pypa",
             "repo": "twine",
             "stars": 1788
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "twine (🥈32 · ⭐ 1.8K · 📈) - Utilities for interacting with PyPI. Apache-2"
+      "title": "twine (🥈32 · ⭐ 1.8K) - Utilities for interacting with PyPI. Apache-2"
     },
     {
       "description": null,
@@ -4063,7 +4274,8 @@
             "owner": "pyinvoke",
             "repo": "invoke",
             "stars": 4769
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "invoke (🥈30 · ⭐ 4.7K) - Pythonic task management & command execution. BSD-2"
@@ -4080,11 +4292,12 @@
             "archived": false,
             "id": 104670160,
             "language": "Python",
-            "last_commit": "2026-08-27T18:38:04Z",
+            "last_commit": "2026-08-28T18:26:43Z",
             "owner": "SCons",
             "repo": "scons",
             "stars": 2417
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "scons (🥈29 · ⭐ 2.4K) - SCons - a software construction tool. MIT"
@@ -4095,7 +4308,7 @@
         {
           "node_type": "item",
           "title": "pypa/flit",
-          "description": "(👨‍💻 83 · 🔀 160 · 📦 2.8K):",
+          "description": "(👨‍💻 83 · 🔀 160 · 📦 2.9K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4105,10 +4318,11 @@
             "owner": "pypa",
             "repo": "flit",
             "stars": 2253
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "flit (🥈29 · ⭐ 2.3K · 📈) - Simplified packaging of Python modules. BSD-3"
+      "title": "flit (🥈29 · ⭐ 2.3K) - Simplified packaging of Python modules. BSD-3"
     },
     {
       "description": null,
@@ -4126,7 +4340,8 @@
             "owner": "pydoit",
             "repo": "doit",
             "stars": 2083
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "doit (🥉25 · ⭐ 2K) - CLI task management & automation tool. MIT"
@@ -4146,8 +4361,9 @@
             "last_commit": "2026-08-18T15:14:58Z",
             "owner": "buildbot",
             "repo": "buildbot",
-            "stars": 5470
-          }
+            "stars": 5471
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "buildbot (🥉23 · ⭐ 5.4K · 💤) - Python-based continuous integration testing framework; your.. ❗️GPL-2.0"
@@ -4158,7 +4374,7 @@
         {
           "node_type": "item",
           "title": "pybuilder/pybuilder",
-          "description": "(👨‍💻 40 · 🔀 270):",
+          "description": "(👨‍💻 40 · 🔀 280):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4168,10 +4384,11 @@
             "owner": "pybuilder",
             "repo": "pybuilder",
             "stars": 2036
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "pybuilder (🥉20 · ⭐ 2K) - Software build automation tool for Python. Apache-2"
+      "title": "pybuilder (🥉22 · ⭐ 2K · 📈) - Software build automation tool for Python. Apache-2"
     },
     {
       "description": null,
@@ -4189,7 +4406,8 @@
             "owner": "ml-tooling",
             "repo": "universal-build",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "universal-build (🥉12 · ⭐ 25 · 💀) - Universal build utilities for containerized build pipelines. MIT"
@@ -4210,7 +4428,8 @@
             "owner": "buildout",
             "repo": "buildout",
             "stars": 618
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -4225,7 +4444,8 @@
             "owner": "paver",
             "repo": "paver",
             "stars": 463
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -4240,7 +4460,8 @@
             "owner": "rags",
             "repo": "pynt",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 3 hidden projects..."
@@ -4260,8 +4481,9 @@
             "last_commit": "2026-08-27T12:19:13Z",
             "owner": "giampaolo",
             "repo": "psutil",
-            "stars": 11266
-          }
+            "stars": 11268
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "psutil (🥇36 · ⭐ 11K) - Cross-platform lib for process and system monitoring in Python. BSD-3"
@@ -4272,7 +4494,7 @@
         {
           "node_type": "item",
           "title": "benfred/py-spy",
-          "description": "(👨‍💻 57 · 🔀 540 · 📦 8.9K):",
+          "description": "(👨‍💻 57 · 🔀 540 · 📦 9K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4281,8 +4503,9 @@
             "last_commit": "2026-08-14T01:33:58Z",
             "owner": "benfred",
             "repo": "py-spy",
-            "stars": 15449
-          }
+            "stars": 15453
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "py-spy (🥇31 · ⭐ 15K) - Sampling profiler for Python programs. MIT"
@@ -4303,7 +4526,8 @@
             "owner": "joerick",
             "repo": "pyinstrument",
             "stars": 8005
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pyinstrument (🥈29 · ⭐ 8K) - Call stack profiler for Python. Shows you why your code is slow!. BSD-3"
@@ -4320,11 +4544,12 @@
             "archived": false,
             "id": 479491550,
             "language": "Python",
-            "last_commit": "2026-08-22T16:17:54Z",
+            "last_commit": "2026-08-28T20:41:48Z",
             "owner": "bloomberg",
             "repo": "memray",
-            "stars": 15203
-          }
+            "stars": 15204
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "memray (🥈28 · ⭐ 15K) - Memray is a memory profiler for Python. Apache-2"
@@ -4341,11 +4566,12 @@
             "archived": false,
             "id": 228700143,
             "language": "Python",
-            "last_commit": "2026-08-01T19:34:24Z",
+            "last_commit": "2026-08-27T22:44:28Z",
             "owner": "plasma-umass",
             "repo": "scalene",
-            "stars": 13495
-          }
+            "stars": 13494
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Scalene (🥈26 · ⭐ 13K) - Scalene: a high-performance, high-precision CPU, GPU, and memory.. Apache-2"
@@ -4366,7 +4592,8 @@
             "owner": "sumerc",
             "repo": "yappi",
             "stars": 1724
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Yappi (🥈26 · ⭐ 1.7K) - Yet Another Python Profiler, but this time multithreading, asyncio and.. MIT"
@@ -4387,7 +4614,8 @@
             "owner": "pythonprofilers",
             "repo": "memory_profiler",
             "stars": 4575
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "memory-profiler (🥉25 · ⭐ 4.5K · 💤) - Monitor Memory usage of Python code. BSD-3"
@@ -4408,7 +4636,8 @@
             "owner": "fabianp",
             "repo": "memory_profiler",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "memory_profiler (🥉25 · ⭐ 4.5K · 💤) - Monitor Memory usage of Python code. BSD-3"
@@ -4429,7 +4658,8 @@
             "owner": "pympler",
             "repo": "pympler",
             "stars": 1410
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "pympler (🥉25 · ⭐ 1.4K) - Development tool to measure, monitor and analyze the memory behavior.. Apache-2"
@@ -4449,11 +4679,12 @@
             "last_commit": "2026-08-14T19:34:06Z",
             "owner": "pyutils",
             "repo": "line_profiler",
-            "stars": 3243
-          }
+            "stars": 3242
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
-      "title": "line_profiler (🥉23 · ⭐ 3.2K) - Line-by-line profiling for Python. BSD-3"
+      "title": "line_profiler (🥉22 · ⭐ 3.2K) - Line-by-line profiling for Python. BSD-3"
     },
     {
       "description": null,
@@ -4470,13 +4701,14 @@
             "last_commit": "2026-08-27T17:06:35Z",
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33454
-          }
+            "stars": 33457
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "Bpytop",
-          "description": "(🥉23 · ⭐ 8.2K · 💀) - Linux/OSX/FreeBSD resource monitor. Apache-2",
+          "description": "(🥉22 · ⭐ 8.2K · 💀) - Linux/OSX/FreeBSD resource monitor. Apache-2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4485,8 +4717,9 @@
             "last_commit": "2025-06-01T20:57:08Z",
             "owner": "aristocratos",
             "repo": "bpytop",
-            "stars": 10922
-          }
+            "stars": 10924
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -4501,7 +4734,8 @@
             "owner": "nvdv",
             "repo": "vprof",
             "stars": 3977
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -4516,7 +4750,8 @@
             "owner": "what-studio",
             "repo": "profiling",
             "stars": 2934
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -4531,12 +4766,13 @@
             "owner": "agermanidis",
             "repo": "livepython",
             "stars": 2562
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "heartrate",
-          "description": "(🥉18 · ⭐ 1.5K · 💀) - Simple real time visualisation of the execution of a Python program. MIT",
+          "description": "(🥉16 · ⭐ 1.5K · 💀) - Simple real time visualisation of the execution of a Python program. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4546,12 +4782,13 @@
             "owner": "alexmojaki",
             "repo": "heartrate",
             "stars": 1840
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
           "title": "Diamond",
-          "description": "(🥉22 · ⭐ 1.8K · 💀) - Diamond is a python daemon that collects system metrics and publishes.. MIT",
+          "description": "(🥉19 · ⭐ 1.8K · 💀) - Diamond is a python daemon that collects system metrics and publishes.. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4561,7 +4798,8 @@
             "owner": "python-diamond",
             "repo": "Diamond",
             "stars": 1756
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -4576,7 +4814,8 @@
             "owner": "csurfer",
             "repo": "pyheat",
             "stars": 841
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 8 hidden projects..."
@@ -4596,8 +4835,9 @@
             "last_commit": "2026-08-12T13:04:27Z",
             "owner": "alexmojaki",
             "repo": "executing",
-            "stars": 399
-          }
+            "stars": 400
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "executing (🥇29 · ⭐ 400) - Get information about what a Python frame is currently doing,.. MIT"
@@ -4618,7 +4858,8 @@
             "owner": "serge-sans-paille",
             "repo": "gast",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "gast (🥈25 · ⭐ 150 · 💤) - Python AST that abstracts the underlying Python version. BSD-3"
@@ -4639,7 +4880,8 @@
             "owner": "berkerpeksag",
             "repo": "astor",
             "stars": 865
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -4654,7 +4896,8 @@
             "owner": "python",
             "repo": "typed_ast",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -4669,7 +4912,8 @@
             "owner": "simonpercivall",
             "repo": "astunparse",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Show 3 hidden projects..."
@@ -4686,11 +4930,12 @@
             "archived": false,
             "id": 327929724,
             "language": "Python",
-            "last_commit": "2026-08-21T19:13:12Z",
+            "last_commit": "2026-08-28T07:06:50Z",
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1298
-          }
+            "stars": 1299
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
           "node_type": "item",
@@ -4701,28 +4946,29 @@
             "archived": false,
             "id": 327929724,
             "language": "Python",
-            "last_commit": "2026-08-21T19:13:12Z",
+            "last_commit": "2026-08-28T07:06:50Z",
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1298
-          }
+            "stars": 1299
+          },
+          "first_seen": "2026-08-28T20:59:25.573Z"
         }
       ],
       "title": "Contribution"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:00:08.554Z",
+    "last_updated": "2026-08-28T20:59:25.573Z",
     "original_repository_info": {
       "archived": false,
       "id": 327929724,
       "language": "Python",
-      "last_commit": "2026-08-21T19:13:12Z",
+      "last_commit": "2026-08-28T07:06:50Z",
       "owner": "ml-tooling",
       "repo": "best-of-python-dev",
-      "stars": 1298
+      "stars": 1299
     },
-    "original_repository_sha": "c03e1f695de8145ba24e60eb2f62586d3886e2b7",
+    "original_repository_sha": "9cfce6c2b7e2628d73342008632c74f8ecb01659",
     "enhanced_repository": "enhansome/enhansome-best-of-python-dev",
     "enhanced_repository_description": null,
     "title": "Awesome best of python dev with stars"
