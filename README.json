@@ -52,7 +52,7 @@
             "open_issues": 1031,
             "owner": "pylint-dev",
             "repo": "pylint",
-            "stars": 5730,
+            "stars": 5731,
             "topics": [
               "closember",
               "code-quality",
@@ -7024,7 +7024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:16:46.163Z",
+    "last_updated": "2026-10-03T04:33:47.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.",
