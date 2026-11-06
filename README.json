@@ -18,7 +18,7 @@
             "open_issues": 24,
             "owner": "PyCQA",
             "repo": "flake8",
-            "stars": 3832,
+            "stars": 3833,
             "topics": [
               "complexity-analysis",
               "flake8",
@@ -49,10 +49,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-11-03T06:42:09Z",
-            "open_issues": 1062,
+            "open_issues": 1058,
             "owner": "pylint-dev",
             "repo": "pylint",
-            "stars": 5747,
+            "stars": 5745,
             "topics": [
               "closember",
               "code-quality",
@@ -102,8 +102,8 @@
             "id": 252646465,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T07:20:38Z",
-            "open_issues": 132,
+            "last_commit": "2026-11-06T08:06:38Z",
+            "open_issues": 135,
             "owner": "beartype",
             "repo": "beartype",
             "stars": 3512,
@@ -114,6 +114,38 @@
             ]
           },
           "title": "beartype",
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        },
+        {
+          "children": [],
+          "description": "The strictest and most opinionated python linter ever!. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "The strictest and most opinionated python linter ever!",
+            "homepage": "https://wemake-python-styleguide.rtfd.io",
+            "id": 124593057,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-06T07:54:13Z",
+            "open_issues": 12,
+            "owner": "wemake-services",
+            "repo": "wemake-python-styleguide",
+            "stars": 2944,
+            "topics": [
+              "code-quality",
+              "flake8",
+              "flake8-plugin",
+              "hacktoberfest",
+              "linter",
+              "python",
+              "python3",
+              "styleguide",
+              "wemake",
+              "wemake-services"
+            ]
+          },
+          "title": "wemake-python-styleguide",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -139,38 +171,6 @@
         },
         {
           "children": [],
-          "description": "The strictest and most opinionated python linter ever!. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "The strictest and most opinionated python linter ever!",
-            "homepage": "https://wemake-python-styleguide.rtfd.io",
-            "id": 124593057,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-05T06:23:39Z",
-            "open_issues": 12,
-            "owner": "wemake-services",
-            "repo": "wemake-python-styleguide",
-            "stars": 2943,
-            "topics": [
-              "code-quality",
-              "flake8",
-              "flake8-plugin",
-              "hacktoberfest",
-              "linter",
-              "python",
-              "python3",
-              "styleguide",
-              "wemake",
-              "wemake-services"
-            ]
-          },
-          "title": "wemake-python-styleguide",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
           "description": "Simple Python style checker in one Python file. MIT",
           "node_type": "item",
           "repo_info": {
@@ -184,7 +184,7 @@
             "open_issues": 105,
             "owner": "PyCQA",
             "repo": "pycodestyle",
-            "stars": 5164,
+            "stars": 5165,
             "topics": [
               "flake8-plugin",
               "linter-flake8",
@@ -210,10 +210,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T15:32:19Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "PyCQA",
             "repo": "flake8-bugbear",
-            "stars": 1123,
+            "stars": 1124,
             "topics": [
               "code-quality",
               "linter",
@@ -222,27 +222,6 @@
             ]
           },
           "title": "flake8-bugbear",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
-          "description": "OpenStack Hacking Style Checks. Mirror of code maintained at.. Apache-2",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "OpenStack Hacking Style Checks. Mirror of code maintained at opendev.org.",
-            "homepage": "https://opendev.org/openstack/hacking",
-            "id": 9040482,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-14T20:17:16Z",
-            "open_issues": 0,
-            "owner": "openstack",
-            "repo": "hacking",
-            "stars": 243,
-            "topics": []
-          },
-          "title": "hacking",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -264,6 +243,27 @@
             "topics": []
           },
           "title": "flake8-isort",
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        },
+        {
+          "children": [],
+          "description": "OpenStack Hacking Style Checks. Mirror of code maintained at.. Apache-2",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "OpenStack Hacking Style Checks. Mirror of code maintained at opendev.org.",
+            "homepage": "https://opendev.org/openstack/hacking",
+            "id": 9040482,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-14T20:17:16Z",
+            "open_issues": 0,
+            "owner": "openstack",
+            "repo": "hacking",
+            "stars": 243,
+            "topics": []
+          },
+          "title": "hacking",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -310,23 +310,44 @@
         },
         {
           "children": [],
-          "description": "Tool to check the completeness of MANIFEST.in for Python.. MIT",
+          "description": "Check for python builtins being used as variables or.. ❗️GPL-2.0",
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "Tool to check the completeness of MANIFEST.in for Python packages",
-            "homepage": "https://pypi.org/p/check-manifest",
-            "id": 8582627,
+            "description": "Check for python builtins being used as variables or parameters",
+            "homepage": "https://pypi.org/project/flake8-builtins",
+            "id": 52920670,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-18T11:25:56Z",
-            "open_issues": 29,
-            "owner": "mgedmin",
-            "repo": "check-manifest",
-            "stars": 293,
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-01T10:24:39Z",
+            "open_issues": 3,
+            "owner": "gforcada",
+            "repo": "flake8-builtins",
+            "stars": 118,
             "topics": []
           },
-          "title": "check-manifest",
+          "title": "flake8-builtins",
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        },
+        {
+          "children": [],
+          "description": "flake8 plugin to run black for checking Python coding style. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "flake8 plugin to run black for checking Python coding style",
+            "homepage": null,
+            "id": 165075936,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-03T12:00:27Z",
+            "open_issues": 3,
+            "owner": "peterjc",
+            "repo": "flake8-black",
+            "stars": 167,
+            "topics": []
+          },
+          "title": "flake8-black",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -348,27 +369,6 @@
             "topics": []
           },
           "title": "flake8-commas",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
-          "description": "Check for python builtins being used as variables or.. ❗️GPL-2.0",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Check for python builtins being used as variables or parameters",
-            "homepage": "https://pypi.org/project/flake8-builtins",
-            "id": 52920670,
-            "language": "Python",
-            "license": "GPL-2.0",
-            "last_commit": "2026-11-01T10:24:39Z",
-            "open_issues": 3,
-            "owner": "gforcada",
-            "repo": "flake8-builtins",
-            "stars": 118,
-            "topics": []
-          },
-          "title": "flake8-builtins",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -427,27 +427,6 @@
             ]
           },
           "title": "flake8-simplify",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
-          "description": "flake8 plugin to run black for checking Python coding style. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "flake8 plugin to run black for checking Python coding style",
-            "homepage": null,
-            "id": 165075936,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-03T12:00:27Z",
-            "open_issues": 3,
-            "owner": "peterjc",
-            "repo": "flake8-black",
-            "stars": 167,
-            "topics": []
-          },
-          "title": "flake8-black",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -541,7 +520,7 @@
                 "open_issues": 833,
                 "owner": "coala",
                 "repo": "coala",
-                "stars": 3595,
+                "stars": 3596,
                 "topics": [
                   "code-analysis",
                   "hacktoberfest",
@@ -750,6 +729,27 @@
                   "wemake-python-styleguide",
                   "wemake-services"
                 ]
+              },
+              "first_seen": "2026-08-28T20:59:25.573Z"
+            },
+            {
+              "node_type": "item",
+              "title": "check-manifest",
+              "description": "Tool to check the completeness of MANIFEST.in for Python.. MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tool to check the completeness of MANIFEST.in for Python packages",
+                "homepage": "https://pypi.org/p/check-manifest",
+                "id": 8582627,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-18T11:25:56Z",
+                "open_issues": 29,
+                "owner": "mgedmin",
+                "repo": "check-manifest",
+                "stars": 293,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:25.573Z"
             },
@@ -1045,7 +1045,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 20 hidden projects..."
+          "title": "Show 21 hidden projects..."
         }
       ],
       "title": "Linters & Style Checkers"
@@ -1053,6 +1053,27 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [],
+          "description": "Static Type Checker for Python. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Static Type Checker for Python",
+            "homepage": null,
+            "id": 175129788,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-06T12:46:19Z",
+            "open_issues": 400,
+            "owner": "microsoft",
+            "repo": "pyright",
+            "stars": 15731,
+            "topics": []
+          },
+          "title": "pyright",
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        },
         {
           "children": [],
           "description": "Performant type-checking for python. MIT",
@@ -1084,27 +1105,6 @@
             ]
           },
           "title": "pyre-check",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
-          "description": "Static Type Checker for Python. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Static Type Checker for Python",
-            "homepage": null,
-            "id": 175129788,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-04T22:55:43Z",
-            "open_issues": 394,
-            "owner": "microsoft",
-            "repo": "pyright",
-            "stars": 15732,
-            "topics": []
-          },
-          "title": "pyright",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -1150,11 +1150,11 @@
                 "id": 7053637,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T17:38:47Z",
-                "open_issues": 3209,
+                "last_commit": "2026-11-06T16:43:04Z",
+                "open_issues": 3219,
                 "owner": "python",
                 "repo": "mypy",
-                "stars": 20713,
+                "stars": 20715,
                 "topics": [
                   "linter",
                   "python",
@@ -1209,10 +1209,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T15:36:16Z",
-            "open_issues": 253,
+            "open_issues": 254,
             "owner": "psf",
             "repo": "black",
-            "stars": 42123,
+            "stars": 42115,
             "topics": [
               "autopep8",
               "code",
@@ -1262,32 +1262,32 @@
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
-          "children": [],
-          "description": "A formatter for Python files. Apache-2",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A formatter for Python files",
-            "homepage": null,
-            "id": 32476524,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-30T16:01:25Z",
-            "open_issues": 441,
-            "owner": "google",
-            "repo": "yapf",
-            "stars": 13987,
-            "topics": [
-              "formatter",
-              "google",
-              "python"
-            ]
-          },
-          "title": "yapf",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
           "children": [
+            {
+              "node_type": "item",
+              "title": "yapf",
+              "description": "A formatter for Python files. Apache-2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A formatter for Python files",
+                "homepage": null,
+                "id": 32476524,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-06T16:01:08Z",
+                "open_issues": 441,
+                "owner": "google",
+                "repo": "yapf",
+                "stars": 13986,
+                "topics": [
+                  "formatter",
+                  "google",
+                  "python"
+                ]
+              },
+              "first_seen": "2026-08-28T20:59:25.573Z"
+            },
             {
               "node_type": "item",
               "title": "autopep8",
@@ -1388,7 +1388,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 4 hidden projects..."
+          "title": "Show 5 hidden projects..."
         }
       ],
       "title": "Code Formatters"
@@ -1434,8 +1434,8 @@
             "id": 14823414,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-05T17:20:56Z",
-            "open_issues": 187,
+            "last_commit": "2026-11-05T21:51:28Z",
+            "open_issues": 188,
             "owner": "python-rope",
             "repo": "rope",
             "stars": 2245,
@@ -1488,7 +1488,7 @@
             "open_issues": 20,
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4125,
+            "stars": 4126,
             "topics": [
               "linter",
               "pre-commit",
@@ -1500,32 +1500,7 @@
         },
         {
           "children": [],
-          "description": "A tool (and pre-commit hook) to automatically add.. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.",
-            "homepage": null,
-            "id": 96721073,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-04T20:53:53Z",
-            "open_issues": 0,
-            "owner": "asottile",
-            "repo": "add-trailing-comma",
-            "stars": 373,
-            "topics": [
-              "linter",
-              "pre-commit",
-              "python"
-            ]
-          },
-          "title": "add-trailing-comma",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
-          "description": "Programmatically edit text files with Python. Useful for source to.. MIT",
+          "description": "Programmatically edit text files with Python. Useful for source to source.. MIT",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1630,6 +1605,31 @@
                 "repo": "redbaron",
                 "stars": 726,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T20:59:25.573Z"
+            },
+            {
+              "node_type": "item",
+              "title": "add-trailing-comma",
+              "description": "A tool (and pre-commit hook) to automatically add.. MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.",
+                "homepage": null,
+                "id": 96721073,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-04T20:53:53Z",
+                "open_issues": 0,
+                "owner": "asottile",
+                "repo": "add-trailing-comma",
+                "stars": 373,
+                "topics": [
+                  "linter",
+                  "pre-commit",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:59:25.573Z"
             },
@@ -1780,7 +1780,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 10 hidden projects..."
+          "title": "Show 11 hidden projects..."
         }
       ],
       "title": "Code Refactoring"
@@ -1803,7 +1803,7 @@
             "open_issues": 266,
             "owner": "PyCQA",
             "repo": "bandit",
-            "stars": 8371,
+            "stars": 8374,
             "topics": [
               "bandit",
               "linter",
@@ -1861,11 +1861,11 @@
             "id": 4793392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T09:20:16Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-06T14:31:55Z",
+            "open_issues": 15,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38865,
+            "stars": 38870,
             "topics": [
               "api-security",
               "appsec",
@@ -1889,7 +1889,7 @@
         },
         {
           "children": [],
-          "description": "Dlint is a tool for encouraging best coding practices and helping.. BSD-3",
+          "description": "Dlint is a tool for encouraging best coding practices and helping ensure.. BSD-3",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1933,7 +1933,7 @@
                 "open_issues": 11,
                 "owner": "dashingsoft",
                 "repo": "pyarmor",
-                "stars": 5225,
+                "stars": 5226,
                 "topics": [
                   "obfuscate",
                   "obfuscate-scripts",
@@ -2047,11 +2047,11 @@
             "id": 1446474,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T23:04:13Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-06T16:45:32Z",
+            "open_issues": 3,
             "owner": "pypa",
             "repo": "virtualenv",
-            "stars": 5063,
+            "stars": 5065,
             "topics": [
               "cython",
               "jython",
@@ -2081,7 +2081,7 @@
             "open_issues": 6,
             "owner": "pypa",
             "repo": "pipenv",
-            "stars": 25021,
+            "stars": 25020,
             "topics": [
               "packaging",
               "pip",
@@ -2108,7 +2108,7 @@
             "open_issues": 17,
             "owner": "ekalinin",
             "repo": "nodeenv",
-            "stars": 1794,
+            "stars": 1796,
             "topics": [
               "nodejs",
               "python",
@@ -2133,11 +2133,11 @@
                 "id": 5625464,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-03T17:12:00Z",
-                "open_issues": 50,
+                "last_commit": "2026-11-05T23:46:41Z",
+                "open_issues": 48,
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45182,
+                "stars": 45180,
                 "topics": [
                   "python",
                   "shell"
@@ -2342,7 +2342,7 @@
             "open_issues": 640,
             "owner": "python-poetry",
             "repo": "poetry",
-            "stars": 34334,
+            "stars": 34366,
             "topics": [
               "dependency-manager",
               "package-manager",
@@ -2365,11 +2365,11 @@
             "id": 151871286,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T00:36:31Z",
+            "last_commit": "2026-11-06T16:38:10Z",
             "open_issues": 1,
             "owner": "pypa",
             "repo": "pipx",
-            "stars": 12987,
+            "stars": 12986,
             "topics": [
               "cli",
               "pip",
@@ -2392,8 +2392,8 @@
             "id": 5746963,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-03T17:31:35Z",
-            "open_issues": 177,
+            "last_commit": "2026-11-06T01:34:35Z",
+            "open_issues": 171,
             "owner": "pypa",
             "repo": "pip-tools",
             "stars": 8003,
@@ -2423,8 +2423,8 @@
             "id": 6235174,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T17:14:37Z",
-            "open_issues": 637,
+            "last_commit": "2026-11-06T16:54:58Z",
+            "open_issues": 634,
             "owner": "conda",
             "repo": "conda",
             "stars": 7553,
@@ -2448,11 +2448,11 @@
             "id": 230369286,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T06:46:15Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-06T03:36:56Z",
+            "open_issues": 44,
             "owner": "pdm-project",
             "repo": "pdm",
-            "stars": 8657,
+            "stars": 8656,
             "topics": [
               "hacktoberfest",
               "package-manager",
@@ -2498,8 +2498,8 @@
             "id": 173947939,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-05T09:27:52Z",
-            "open_issues": 452,
+            "last_commit": "2026-11-06T15:14:44Z",
+            "open_issues": 446,
             "owner": "mamba-org",
             "repo": "mamba",
             "stars": 8116,
@@ -2643,7 +2643,7 @@
         },
         {
           "children": [],
-          "description": "A Python application for tracking, reporting on timing and complexity in.. Apache-2",
+          "description": "A Python application for tracking, reporting on timing and.. Apache-2",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2775,10 +2775,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T22:10:31Z",
-            "open_issues": 687,
+            "open_issues": 683,
             "owner": "tqdm",
             "repo": "tqdm",
-            "stars": 31380,
+            "stars": 31379,
             "topics": [
               "cli",
               "closember",
@@ -2817,10 +2817,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 391,
+            "open_issues": 392,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57743,
+            "stars": 57729,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -2855,10 +2855,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T22:16:43Z",
-            "open_issues": 259,
+            "open_issues": 260,
             "owner": "Delgan",
             "repo": "loguru",
-            "stars": 24156,
+            "stars": 24154,
             "topics": [
               "log",
               "logger",
@@ -2884,7 +2884,7 @@
             "open_issues": 44,
             "owner": "hynek",
             "repo": "structlog",
-            "stars": 4991,
+            "stars": 4992,
             "topics": [
               "logging",
               "python",
@@ -2905,8 +2905,8 @@
             "id": 137814779,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T16:25:00Z",
-            "open_issues": 399,
+            "last_commit": "2026-11-06T16:33:13Z",
+            "open_issues": 394,
             "owner": "getsentry",
             "repo": "sentry-python",
             "stars": 2219,
@@ -3004,13 +3004,13 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "Progressbar 2 - A progress bar for Python 2 and Python 3 - \"pip install progressbar2\"",
+            "description": "Progressbar 2 - A progress bar for Python 3 (3.10+) with ETA, speed and custom widgets - \"pip install progressbar2\"",
             "homepage": "http://progressbar-2.readthedocs.org/en/latest/",
             "id": 3491275,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-05T10:39:09Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-06T10:33:31Z",
+            "open_issues": 1,
             "owner": "wolph",
             "repo": "python-progressbar",
             "stars": 879,
@@ -3140,7 +3140,7 @@
             "open_issues": 29,
             "owner": "samuelcolvin",
             "repo": "python-devtools",
-            "stars": 1110,
+            "stars": 1109,
             "topics": [
               "devtools",
               "python",
@@ -3239,7 +3239,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-01T05:27:31Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "prettytable",
                 "repo": "prettytable",
                 "stars": 1800,
@@ -3288,8 +3288,8 @@
                 "id": 790576,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T12:22:39Z",
-                "open_issues": 41,
+                "last_commit": "2026-11-06T12:22:37Z",
+                "open_issues": 42,
                 "owner": "getlogbook",
                 "repo": "logbook",
                 "stars": 1509,
@@ -3377,10 +3377,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-03T11:51:18Z",
-                "open_issues": 91,
+                "open_issues": 92,
                 "owner": "xonsh",
                 "repo": "xonsh",
-                "stars": 9684,
+                "stars": 9685,
                 "topics": [
                   "anthropic",
                   "claude",
@@ -3473,7 +3473,7 @@
             "open_issues": 1,
             "owner": "squidfunk",
             "repo": "mkdocs-material",
-            "stars": 27600,
+            "stars": 27603,
             "topics": [
               "documentation",
               "framework",
@@ -3501,7 +3501,7 @@
             "open_issues": 183,
             "owner": "mkdocs",
             "repo": "mkdocs",
-            "stars": 22534,
+            "stars": 22538,
             "topics": [
               "documentation",
               "markdown",
@@ -3606,7 +3606,7 @@
             "id": 42892576,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T23:08:26Z",
+            "last_commit": "2026-11-06T16:42:28Z",
             "open_issues": 0,
             "owner": "tox-dev",
             "repo": "sphinx-autodoc-typehints",
@@ -3681,6 +3681,33 @@
         },
         {
           "children": [],
+          "description": "Explain yourself! Interrogate a codebase for docstring coverage. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Explain yourself! Interrogate a codebase for docstring coverage.",
+            "homepage": "https://interrogate.readthedocs.io",
+            "id": 258385030,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T23:25:12Z",
+            "open_issues": 44,
+            "owner": "econchick",
+            "repo": "interrogate",
+            "stars": 678,
+            "topics": [
+              "code-quality",
+              "coverage",
+              "documentation",
+              "hacktoberfest",
+              "python"
+            ]
+          },
+          "title": "interrogate",
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        },
+        {
+          "children": [],
           "description": "DISCONTINUED: sphinx builder that outputs markdown.. MIT",
           "node_type": "item",
           "repo_info": {
@@ -3711,33 +3738,6 @@
         },
         {
           "children": [],
-          "description": "Explain yourself! Interrogate a codebase for docstring coverage. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Explain yourself! Interrogate a codebase for docstring coverage.",
-            "homepage": "https://interrogate.readthedocs.io",
-            "id": 258385030,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-02T23:25:12Z",
-            "open_issues": 44,
-            "owner": "econchick",
-            "repo": "interrogate",
-            "stars": 678,
-            "topics": [
-              "code-quality",
-              "coverage",
-              "documentation",
-              "hacktoberfest",
-              "python"
-            ]
-          },
-          "title": "interrogate",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
           "description": "MkDocs Plugin that adds an additional page that.. MIT",
           "node_type": "item",
           "repo_info": {
@@ -3761,30 +3761,6 @@
             ]
           },
           "title": "mkdocs-print-site-plugin",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
-          "description": "An MkDocs plugin to export content pages as PDF files. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "An MkDocs plugin to export content pages as PDF files",
-            "homepage": null,
-            "id": 122213848,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-10-08T08:08:12Z",
-            "open_issues": 48,
-            "owner": "zhaoterryy",
-            "repo": "mkdocs-pdf-export-plugin",
-            "stars": 346,
-            "topics": [
-              "mkdocs",
-              "pdf"
-            ]
-          },
-          "title": "mkdocs-pdf-export-plugin",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -3833,10 +3809,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T01:45:21Z",
-                "open_issues": 1444,
+                "open_issues": 1447,
                 "owner": "sphinx-doc",
                 "repo": "sphinx",
-                "stars": 8086,
+                "stars": 8085,
                 "topics": [
                   "docs",
                   "documentation",
@@ -4060,6 +4036,30 @@
             },
             {
               "node_type": "item",
+              "title": "mkdocs-pdf-export-plugin",
+              "description": "An MkDocs plugin to export content pages as PDF files. MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An MkDocs plugin to export content pages as PDF files",
+                "homepage": null,
+                "id": 122213848,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-10-08T08:08:12Z",
+                "open_issues": 48,
+                "owner": "zhaoterryy",
+                "repo": "mkdocs-pdf-export-plugin",
+                "stars": 346,
+                "topics": [
+                  "mkdocs",
+                  "pdf"
+                ]
+              },
+              "first_seen": "2026-08-28T20:59:25.573Z"
+            },
+            {
+              "node_type": "item",
               "title": "releases",
               "description": "A powerful Sphinx changelog-generating extension. BSD-2",
               "children": [],
@@ -4158,7 +4158,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 14 hidden projects..."
+          "title": "Show 15 hidden projects..."
         }
       ],
       "title": "Documentation"
@@ -4209,7 +4209,7 @@
             "open_issues": 36,
             "owner": "cool-RR",
             "repo": "PySnooper",
-            "stars": 16574,
+            "stars": 16572,
             "topics": [
               "debug",
               "debugger",
@@ -4349,7 +4349,7 @@
                 "open_issues": 181,
                 "owner": "cs01",
                 "repo": "gdbgui",
-                "stars": 10356,
+                "stars": 10355,
                 "topics": [
                   "browser",
                   "c",
@@ -4387,7 +4387,7 @@
                 "open_issues": 164,
                 "owner": "inducer",
                 "repo": "pudb",
-                "stars": 3251,
+                "stars": 3252,
                 "topics": [
                   "bpython",
                   "debug",
@@ -4418,7 +4418,7 @@
                 "open_issues": 36,
                 "owner": "reloadware",
                 "repo": "reloadium",
-                "stars": 2982,
+                "stars": 2981,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4502,7 +4502,7 @@
                 "open_issues": 27,
                 "owner": "alexmojaki",
                 "repo": "birdseye",
-                "stars": 1775,
+                "stars": 1774,
                 "topics": [
                   "ast",
                   "birdseye",
@@ -4561,7 +4561,7 @@
             "id": 327002257,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-29T21:40:20Z",
+            "last_commit": "2026-11-06T08:58:06Z",
             "open_issues": 25,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
@@ -4603,10 +4603,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T08:43:04Z",
-            "open_issues": 928,
+            "open_issues": 930,
             "owner": "pytest-dev",
             "repo": "pytest",
-            "stars": 14665,
+            "stars": 14668,
             "topics": [
               "hacktoberfest",
               "python",
@@ -4629,11 +4629,11 @@
             "id": 276414382,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T15:38:01Z",
+            "last_commit": "2026-11-06T09:44:08Z",
             "open_issues": 2,
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 15088,
+            "stars": 15086,
             "topics": [
               "chromium",
               "firefox",
@@ -4655,11 +4655,11 @@
             "id": 8685799,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T19:03:28Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-06T09:52:54Z",
+            "open_issues": 51,
             "owner": "HypothesisWorks",
             "repo": "hypothesis",
-            "stars": 9138,
+            "stars": 9139,
             "topics": [
               "fuzzing",
               "property-based-testing",
@@ -4705,8 +4705,8 @@
             "id": 33756412,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T17:34:29Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-06T15:12:09Z",
+            "open_issues": 45,
             "owner": "pytest-dev",
             "repo": "pytest-asyncio",
             "stars": 1669,
@@ -4722,6 +4722,36 @@
         },
         {
           "children": [],
+          "description": "Generic automation framework for acceptance testing and RPA. Apache-2",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Generic automation framework for acceptance testing and RPA",
+            "homepage": "http://robotframework.org",
+            "id": 21273155,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-03T00:15:08Z",
+            "open_issues": 315,
+            "owner": "robotframework",
+            "repo": "robotframework",
+            "stars": 11979,
+            "topics": [
+              "attd",
+              "automation",
+              "bdd",
+              "python",
+              "robotframework",
+              "rpa",
+              "testautomation",
+              "testing"
+            ]
+          },
+          "title": "robotframework",
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        },
+        {
+          "children": [],
           "description": "Command line driven CI frontend and development task automation tool. MIT",
           "node_type": "item",
           "repo_info": {
@@ -4731,11 +4761,11 @@
             "id": 68465360,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T23:41:37Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-06T16:50:48Z",
+            "open_issues": 0,
             "owner": "tox-dev",
             "repo": "tox",
-            "stars": 3977,
+            "stars": 3976,
             "topics": [
               "actions",
               "automation",
@@ -4777,36 +4807,6 @@
         },
         {
           "children": [],
-          "description": "Generic automation framework for acceptance testing and RPA. Apache-2",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Generic automation framework for acceptance testing and RPA",
-            "homepage": "http://robotframework.org",
-            "id": 21273155,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-03T00:15:08Z",
-            "open_issues": 314,
-            "owner": "robotframework",
-            "repo": "robotframework",
-            "stars": 11979,
-            "topics": [
-              "attd",
-              "automation",
-              "bdd",
-              "python",
-              "robotframework",
-              "rpa",
-              "testautomation",
-              "testing"
-            ]
-          },
-          "title": "robotframework",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
           "description": "pytest plugin for distributed testing and loop-on-failures.. MIT",
           "node_type": "item",
           "repo_info": {
@@ -4817,7 +4817,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-02T23:34:25Z",
-            "open_issues": 316,
+            "open_issues": 317,
             "owner": "pytest-dev",
             "repo": "pytest-xdist",
             "stars": 1931,
@@ -4845,7 +4845,7 @@
             "open_issues": 582,
             "owner": "asweigart",
             "repo": "pyautogui",
-            "stars": 12756,
+            "stars": 12753,
             "topics": []
           },
           "title": "pyautogui",
@@ -4889,11 +4889,11 @@
             "id": 52413187,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T07:14:51Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-06T02:14:53Z",
+            "open_issues": 78,
             "owner": "wntrblm",
             "repo": "nox",
-            "stars": 1560,
+            "stars": 1561,
             "topics": [
               "automation",
               "python",
@@ -4946,7 +4946,7 @@
             "open_issues": 15,
             "owner": "lk-geimfari",
             "repo": "mimesis",
-            "stars": 4865,
+            "stars": 4864,
             "topics": [
               "data",
               "dataframe",
@@ -5012,7 +5012,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-26T16:13:52Z",
-            "open_issues": 212,
+            "open_issues": 211,
             "owner": "pytest-dev",
             "repo": "pytest-html",
             "stars": 779,
@@ -5052,6 +5052,33 @@
         },
         {
           "children": [],
+          "description": "Selects tests affected by changed files. Executes the right.. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.",
+            "homepage": "https://testmon.org",
+            "id": 30190430,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T13:04:41Z",
+            "open_issues": 40,
+            "owner": "tarpas",
+            "repo": "pytest-testmon",
+            "stars": 1034,
+            "topics": [
+              "build-tool",
+              "ci",
+              "python",
+              "test-automation",
+              "testing"
+            ]
+          },
+          "title": "pytest-testmon",
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        },
+        {
+          "children": [],
           "description": "Show coverage stats online via coveralls.io. MIT",
           "node_type": "item",
           "repo_info": {
@@ -5061,7 +5088,7 @@
             "id": 8059786,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T17:25:30Z",
+            "last_commit": "2026-11-06T16:28:25Z",
             "open_issues": 2,
             "owner": "TheKevJames",
             "repo": "coveralls-python",
@@ -5075,33 +5102,6 @@
             ]
           },
           "title": "coveralls-python",
-          "first_seen": "2026-08-28T20:59:25.573Z"
-        },
-        {
-          "children": [],
-          "description": "Selects tests affected by changed files. Executes the right.. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.",
-            "homepage": "https://testmon.org",
-            "id": 30190430,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-02T13:04:41Z",
-            "open_issues": 39,
-            "owner": "tarpas",
-            "repo": "pytest-testmon",
-            "stars": 1034,
-            "topics": [
-              "build-tool",
-              "ci",
-              "python",
-              "test-automation",
-              "testing"
-            ]
-          },
-          "title": "pytest-testmon",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -5238,6 +5238,27 @@
             ]
           },
           "title": "pytest-datadir",
+          "first_seen": "2026-08-28T20:59:25.573Z"
+        },
+        {
+          "children": [],
+          "description": "Simple assertion library for unit testing in python with a fluent.. BSD-3",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Simple assertion library for unit testing in python with a fluent API",
+            "homepage": null,
+            "id": 222271895,
+            "language": null,
+            "license": "BSD-3-Clause",
+            "last_commit": "2019-11-09T12:14:38Z",
+            "open_issues": 0,
+            "owner": "ActivisionGameScience",
+            "repo": "assertpy",
+            "stars": 20,
+            "topics": []
+          },
+          "title": "assertpy",
           "first_seen": "2026-08-28T20:59:25.573Z"
         },
         {
@@ -5423,7 +5444,7 @@
                 "open_issues": 7,
                 "owner": "emirozer",
                 "repo": "fake2db",
-                "stars": 2341,
+                "stars": 2342,
                 "topics": [
                   "data",
                   "database",
@@ -5638,32 +5659,11 @@
                 ]
               },
               "first_seen": "2026-08-28T20:59:25.573Z"
-            },
-            {
-              "node_type": "item",
-              "title": "assertpy",
-              "description": "Simple assertion library for unit testing in python with a fluent.. BSD-3",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simple assertion library for unit testing in python with a fluent API",
-                "homepage": null,
-                "id": 222271895,
-                "language": null,
-                "license": "BSD-3-Clause",
-                "last_commit": "2019-11-09T12:14:38Z",
-                "open_issues": 0,
-                "owner": "ActivisionGameScience",
-                "repo": "assertpy",
-                "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:59:25.573Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 14 hidden projects..."
+          "title": "Show 13 hidden projects..."
         }
       ],
       "title": "Testing Tools"
@@ -5683,7 +5683,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T22:14:08Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "pyinstaller",
             "repo": "pyinstaller",
             "stars": 13141,
@@ -5712,11 +5712,11 @@
             "id": 9626741,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T10:59:29Z",
-            "open_issues": 170,
+            "last_commit": "2026-11-06T14:22:04Z",
+            "open_issues": 173,
             "owner": "Nuitka",
             "repo": "Nuitka",
-            "stars": 15225,
+            "stars": 15226,
             "topics": [
               "compiler",
               "nuitka",
@@ -5741,8 +5741,8 @@
             "id": 39841700,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-03T21:48:34Z",
-            "open_issues": 169,
+            "last_commit": "2026-11-06T04:22:04Z",
+            "open_issues": 167,
             "owner": "beeware",
             "repo": "briefcase",
             "stars": 3376,
@@ -5765,8 +5765,8 @@
             "id": 22072746,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T03:18:50Z",
-            "open_issues": 58,
+            "last_commit": "2026-11-06T12:18:11Z",
+            "open_issues": 56,
             "owner": "pex-tool",
             "repo": "pex",
             "stars": 4226,
@@ -5786,8 +5786,8 @@
             "id": 79693503,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T20:17:45Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-06T16:14:09Z",
+            "open_issues": 44,
             "owner": "marcelotduarte",
             "repo": "cx_Freeze",
             "stars": 1564,
@@ -5867,7 +5867,7 @@
             "open_issues": 66,
             "owner": "linkedin",
             "repo": "shiv",
-            "stars": 1950,
+            "stars": 1951,
             "topics": []
           },
           "title": "shiv",
@@ -5885,7 +5885,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T20:56:25Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "conda",
             "repo": "constructor",
             "stars": 499,
@@ -5912,7 +5912,7 @@
                 "open_issues": 362,
                 "owner": "indygreg",
                 "repo": "PyOxidizer",
-                "stars": 6159,
+                "stars": 6158,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:25.573Z"
@@ -5972,7 +5972,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-04T22:29:22Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "pypa",
                 "repo": "packaging",
                 "stars": 755,
@@ -6181,7 +6181,7 @@
             "open_issues": 126,
             "owner": "pypa",
             "repo": "flit",
-            "stars": 2261,
+            "stars": 2262,
             "topics": []
           },
           "title": "flit",
@@ -6202,7 +6202,7 @@
             "open_issues": 114,
             "owner": "pydoit",
             "repo": "doit",
-            "stars": 2096,
+            "stars": 2098,
             "topics": [
               "build-automation",
               "build-system",
@@ -6297,10 +6297,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-05T11:36:10Z",
-                "open_issues": 836,
+                "open_issues": 837,
                 "owner": "buildbot",
                 "repo": "buildbot",
-                "stars": 5489,
+                "stars": 5488,
                 "topics": [
                   "ci",
                   "ci-framework",
@@ -6322,8 +6322,8 @@
                 "id": 3827595,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T12:14:08Z",
-                "open_issues": 125,
+                "last_commit": "2026-11-06T11:31:18Z",
+                "open_issues": 123,
                 "owner": "buildout",
                 "repo": "buildout",
                 "stars": 618,
@@ -6400,11 +6400,11 @@
             "id": 20101515,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T20:28:00Z",
+            "last_commit": "2026-11-06T15:32:59Z",
             "open_issues": 286,
             "owner": "giampaolo",
             "repo": "psutil",
-            "stars": 11318,
+            "stars": 11316,
             "topics": [
               "cpu",
               "cross-platform",
@@ -6431,8 +6431,8 @@
             "id": 143092994,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-04T01:06:57Z",
-            "open_issues": 237,
+            "last_commit": "2026-11-06T16:25:31Z",
+            "open_issues": 238,
             "owner": "benfred",
             "repo": "py-spy",
             "stars": 15627,
@@ -6461,7 +6461,7 @@
             "open_issues": 31,
             "owner": "joerick",
             "repo": "pyinstrument",
-            "stars": 8027,
+            "stars": 8026,
             "topics": [
               "async",
               "django",
@@ -6486,10 +6486,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-04T00:23:07Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "bloomberg",
             "repo": "memray",
-            "stars": 15414,
+            "stars": 15415,
             "topics": [
               "hacktoberfest",
               "memory",
@@ -6519,7 +6519,7 @@
             "open_issues": 157,
             "owner": "plasma-umass",
             "repo": "scalene",
-            "stars": 13549,
+            "stars": 13550,
             "topics": [
               "cpu",
               "cpu-profiling",
@@ -6654,7 +6654,7 @@
             "open_issues": 99,
             "owner": "aristocratos",
             "repo": "bpytop",
-            "stars": 10929,
+            "stars": 10928,
             "topics": []
           },
           "title": "Bpytop",
@@ -6675,10 +6675,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T05:23:06Z",
-                "open_issues": 118,
+                "open_issues": 120,
                 "owner": "nicolargo",
                 "repo": "glances",
-                "stars": 33906,
+                "stars": 33907,
                 "topics": [
                   "monitoring",
                   "multi-platform",
@@ -6913,7 +6913,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-27T17:53:27Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "serge-sans-paille",
             "repo": "gast",
             "stars": 148,
@@ -7025,7 +7025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:39:59.031Z",
+    "last_updated": "2026-11-06T16:56:38.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.",
@@ -7033,7 +7033,7 @@
       "id": 327929724,
       "language": "Python",
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-10-29T20:05:13Z",
+      "last_commit": "2026-11-06T08:58:17Z",
       "open_issues": 35,
       "owner": "ml-tooling",
       "repo": "best-of-python-dev",
@@ -7061,7 +7061,7 @@
         "style-checkers"
       ]
     },
-    "original_repository_sha": "8772a1c5fb4800892c6252db9c6d3163aa645533",
+    "original_repository_sha": "bad5da68b7f03a896e9fad45a80244475a241843",
     "enhanced_repository": "enhansome/enhansome-best-of-python-dev",
     "enhanced_repository_description": null,
     "title": "Awesome best of python dev with stars"
